@@ -6,4 +6,4 @@ interested in learning what does functional programming, especially Haskell offe
 field.
 
 # Current State
-I am learning Haskell myself.
+I am learning Haskell myself. A few examples are solved in MATLAB to later be used for demonstrations.
