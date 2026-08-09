@@ -1,3 +1,6 @@
 [submodule "learning-haskell"]
 	path = learning-haskell
 	url = https://github.com/ehsan1381/learning-haskell.git
+[submodule "test-problems"]
+	path = test-problems
+	url = git@github.com:ehsan1381/test-problems
