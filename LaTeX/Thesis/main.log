@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.8.26)  27 SEP 2026 18:24
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.8.26)  27 SEP 2026 19:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2176,48 +2176,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--140
 [8] (chapters/other/introduction.tex
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
 (Font)              scaled to size 12.04506pt on input line 7.
-
-! Undefined control sequence.
-l.11 \Haskell
-             
-? 
-! Undefined control sequence.
-l.14 \MATLAB
-            
-? 
-! Undefined control sequence.
-l.16 \C
-       
-? 
-! Undefined control sequence.
-l.20 \Haskell
-             
-? 
 LaTeX Font Info:    Font shape `TU/Yas(0)/b/n' will be
-(Font)              scaled to size 12.04506pt on input line 24.
+(Font)              scaled to size 12.04506pt on input line 23.
+
 
 Package natbib Warning: Citation `RefAHACwMG' on page نه undefined on input lin
-e 24.
+e 23.
 
-! Undefined control sequence.
-l.28 \Haskell
-             
-? 
-! Undefined control sequence.
-l.32 \CUDA
-          
-? 
-! Undefined control sequence.
-l.34 \CUDA
-          
-? 
-! Undefined control sequence.
-l.40 \Haskell
-             
-? 
 
 Package natbib Warning: Citation `RefOPFGP' on page نه undefined on input line 
-42.
+41.
 
 ) [9
 
