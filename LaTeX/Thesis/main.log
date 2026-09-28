@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.8.26)  25 SEP 2026 18:48
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.8.26)  27 SEP 2026 18:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2168,67 +2168,60 @@ LaTeX Font Info:    Font shape `TU/ParsiDigits(0)/b/n' will be
 ] (abstracts/farsi_abstract.tex
 LaTeX Font Info:    Font shape `TU/Yas(0)/m/n' will be
 (Font)              scaled to size 12.04506pt on input line 8.
-) [8] (chapters/other/introduction.tex
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
-(Font)              scaled to size 12.04506pt on input line 6.
-LaTeX Font Info:    Font shape `TU/ParsiDigits(0)/m/n' will be
-(Font)              scaled to size 12.04506pt on input line 11.
-LaTeX Font Info:    Font shape `TU/ParsiDigits(1)/m/n' will be
-(Font)              scaled to size 12.04506pt on input line 23.
-LaTeX Font Info:    Font shape `TU/ParsiDigits(1)/bx/n' in size <10.95> not ava
-ilable
-(Font)              Font shape `TU/ParsiDigits(1)/b/n' tried instead on input l
-ine 23.
-LaTeX Font Info:    Font shape `TU/ParsiDigits(1)/b/n' will be
-(Font)              scaled to size 12.04506pt on input line 23.
-LaTeX Font Info:    Font shape `TU/ParsiDigits(1)/m/it' will be
-(Font)              scaled to size 12.04506pt on input line 23.
-LaTeX Font Info:    Font shape `TU/Yas(0)/m/n' will be
-(Font)              scaled to size 8.80005pt on input line 23.
-LaTeX Font Info:    Font shape `TU/ParsiDigits(0)/m/n' will be
-(Font)              scaled to size 8.80005pt on input line 23.
-LaTeX Font Info:    Font shape `TU/Yas(0)/m/n' will be
-(Font)              scaled to size 11.00006pt on input line 23.
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
-(Font)              scaled to size 11.00006pt on input line 23.
-LaTeX Font Info:    Font shape `TU/ParsiDigits(1)/m/n' will be
-(Font)              scaled to size 11.00006pt on input line 23.
-LaTeX Font Info:    Font shape `TU/ParsiDigits(1)/m/n' will be
-(Font)              scaled to size 7.70004pt on input line 23.
-LaTeX Font Info:    Font shape `TU/ParsiDigits(1)/m/n' will be
-(Font)              scaled to size 5.50003pt on input line 23.
-LaTeX Font Info:    Font shape `TU/ParsiDigits(1)/bx/n' in size <10> not availa
-ble
-(Font)              Font shape `TU/ParsiDigits(1)/b/n' tried instead on input l
-ine 23.
-LaTeX Font Info:    Font shape `TU/ParsiDigits(1)/b/n' will be
-(Font)              scaled to size 11.00006pt on input line 23.
-LaTeX Font Info:    Font shape `TU/ParsiDigits(1)/bx/n' in size <7> not availab
-le
-(Font)              Font shape `TU/ParsiDigits(1)/b/n' tried instead on input l
-ine 23.
-LaTeX Font Info:    Font shape `TU/ParsiDigits(1)/b/n' will be
-(Font)              scaled to size 7.70004pt on input line 23.
-LaTeX Font Info:    Font shape `TU/ParsiDigits(1)/bx/n' in size <5> not availab
-le
-(Font)              Font shape `TU/ParsiDigits(1)/b/n' tried instead on input l
-ine 23.
-LaTeX Font Info:    Font shape `TU/ParsiDigits(1)/b/n' will be
-(Font)              scaled to size 5.50003pt on input line 23.
-LaTeX Font Info:    Font shape `TU/ParsiDigits(1)/m/it' will be
-(Font)              scaled to size 11.00006pt on input line 23.
-LaTeX Font Info:    Font shape `TU/ParsiDigits(1)/m/it' will be
-(Font)              scaled to size 7.70004pt on input line 23.
-LaTeX Font Info:    Font shape `TU/ParsiDigits(1)/m/it' will be
-(Font)              scaled to size 5.50003pt on input line 23.
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
-(Font)              scaled to size 7.70004pt on input line 23.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 5--140
+[][]
+ []
 
-Missing character: There is no ﯾ in font Yas Regular/OT:language=dflt;script=ar
-ab;mapping=persian-tex-text;!
-[9
+[8] (chapters/other/introduction.tex
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
+(Font)              scaled to size 12.04506pt on input line 7.
 
-]) [10] (chapters/chapter1/chapter1.tex
+! Undefined control sequence.
+l.11 \Haskell
+             
+? 
+! Undefined control sequence.
+l.14 \MATLAB
+            
+? 
+! Undefined control sequence.
+l.16 \C
+       
+? 
+! Undefined control sequence.
+l.20 \Haskell
+             
+? 
+LaTeX Font Info:    Font shape `TU/Yas(0)/b/n' will be
+(Font)              scaled to size 12.04506pt on input line 24.
+
+Package natbib Warning: Citation `RefAHACwMG' on page نه undefined on input lin
+e 24.
+
+! Undefined control sequence.
+l.28 \Haskell
+             
+? 
+! Undefined control sequence.
+l.32 \CUDA
+          
+? 
+! Undefined control sequence.
+l.34 \CUDA
+          
+? 
+! Undefined control sequence.
+l.40 \Haskell
+             
+? 
+
+Package natbib Warning: Citation `RefOPFGP' on page نه undefined on input line 
+42.
+
+) [9
+
+] (chapters/chapter1/chapter1.tex
 فصل 1.
 LaTeX Font Info:    Font shape `TU/ParsiDigits(0)/b/n' will be
 (Font)              scaled to size 27.36815pt on input line 3.
@@ -2236,11 +2229,61 @@ LaTeX Font Info:    Font shape `TU/Yas(0)/b/n' will be
 (Font)              scaled to size 19.0081pt on input line 12.
 LaTeX Font Info:    Font shape `TU/ParsiDigits(0)/b/n' will be
 (Font)              scaled to size 19.0081pt on input line 12.
+LaTeX Font Info:    Font shape `TU/ParsiDigits(1)/m/n' will be
+(Font)              scaled to size 12.04506pt on input line 16.
+LaTeX Font Info:    Font shape `TU/ParsiDigits(1)/bx/n' in size <10.95> not ava
+ilable
+(Font)              Font shape `TU/ParsiDigits(1)/b/n' tried instead on input l
+ine 16.
+LaTeX Font Info:    Font shape `TU/ParsiDigits(1)/b/n' will be
+(Font)              scaled to size 12.04506pt on input line 16.
+LaTeX Font Info:    Font shape `TU/ParsiDigits(1)/m/it' will be
+(Font)              scaled to size 12.04506pt on input line 16.
+LaTeX Font Info:    Font shape `TU/Yas(0)/m/n' will be
+(Font)              scaled to size 8.80005pt on input line 16.
+LaTeX Font Info:    Font shape `TU/ParsiDigits(0)/m/n' will be
+(Font)              scaled to size 8.80005pt on input line 16.
+LaTeX Font Info:    Font shape `TU/Yas(0)/m/n' will be
+(Font)              scaled to size 11.00006pt on input line 16.
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
+(Font)              scaled to size 11.00006pt on input line 16.
+LaTeX Font Info:    Font shape `TU/ParsiDigits(1)/m/n' will be
+(Font)              scaled to size 11.00006pt on input line 16.
+LaTeX Font Info:    Font shape `TU/ParsiDigits(1)/m/n' will be
+(Font)              scaled to size 7.70004pt on input line 16.
+LaTeX Font Info:    Font shape `TU/ParsiDigits(1)/m/n' will be
+(Font)              scaled to size 5.50003pt on input line 16.
+LaTeX Font Info:    Font shape `TU/ParsiDigits(1)/bx/n' in size <10> not availa
+ble
+(Font)              Font shape `TU/ParsiDigits(1)/b/n' tried instead on input l
+ine 16.
+LaTeX Font Info:    Font shape `TU/ParsiDigits(1)/b/n' will be
+(Font)              scaled to size 11.00006pt on input line 16.
+LaTeX Font Info:    Font shape `TU/ParsiDigits(1)/bx/n' in size <7> not availab
+le
+(Font)              Font shape `TU/ParsiDigits(1)/b/n' tried instead on input l
+ine 16.
+LaTeX Font Info:    Font shape `TU/ParsiDigits(1)/b/n' will be
+(Font)              scaled to size 7.70004pt on input line 16.
+LaTeX Font Info:    Font shape `TU/ParsiDigits(1)/bx/n' in size <5> not availab
+le
+(Font)              Font shape `TU/ParsiDigits(1)/b/n' tried instead on input l
+ine 16.
+LaTeX Font Info:    Font shape `TU/ParsiDigits(1)/b/n' will be
+(Font)              scaled to size 5.50003pt on input line 16.
+LaTeX Font Info:    Font shape `TU/ParsiDigits(1)/m/it' will be
+(Font)              scaled to size 11.00006pt on input line 16.
+LaTeX Font Info:    Font shape `TU/ParsiDigits(1)/m/it' will be
+(Font)              scaled to size 7.70004pt on input line 16.
+LaTeX Font Info:    Font shape `TU/ParsiDigits(1)/m/it' will be
+(Font)              scaled to size 5.50003pt on input line 16.
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
+(Font)              scaled to size 7.70004pt on input line 16.
+LaTeX Font Info:    Font shape `TU/ParsiDigits(0)/m/n' will be
+(Font)              scaled to size 12.04506pt on input line 19.
 LaTeX Font Info:    Font shape `TU/ParsiDigits(0)/b/n' will be
 (Font)              scaled to size 15.84007pt on input line 24.
 LaTeX Font Info:    Font shape `TU/Yas(0)/m/it' will be
-(Font)              scaled to size 12.04506pt on input line 26.
-LaTeX Font Info:    Font shape `TU/Yas(0)/b/n' will be
 (Font)              scaled to size 12.04506pt on input line 26.
 LaTeX Font Info:    Font shape `TU/ParsiDigits(0)/b/n' will be
 (Font)              scaled to size 12.04506pt on input line 26.
@@ -2699,7 +2742,11 @@ l.183 \lastpage
 l.183 \lastpage
                
 ? 
-[1] (main.aux)
+[1]
+
+Package natbib Warning: There were undefined citations.
+
+(main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
@@ -2722,6 +2769,6 @@ Here is how much of TeX's memory you used:
  70431 multiletter control sequences out of 15000+600000
  643428 words of font info for 247 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 104i,13n,120p,1226b,927s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 104i,13n,120p,1226b,924s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (35 pages).
+Output written on main.pdf (34 pages).
