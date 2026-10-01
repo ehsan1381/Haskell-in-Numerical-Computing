@@ -6,4 +6,10 @@ interested in learning what does functional programming, especially Haskell offe
 field.
 
 # Current State
-I am learning Haskell myself. A few examples are solved in MATLAB to later be used for demonstrations.
+Writing...
+
+
+# Notes
+- As a written work, paragraphs do not read well. They should be edited to be "smoother". 
+- Current division of chapters, sections and subsections is horrible. Must be fixed
+- Some statements were not fact checked. In a later edit they must be
