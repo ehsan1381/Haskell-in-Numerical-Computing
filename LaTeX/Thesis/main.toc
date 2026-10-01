@@ -1,8 +1,9 @@
 \contentsline {chapter}{فهرست مطالب}{هفت}{chapter*.1}%
 \contentsline {chapter}{پیشگفتار}{نه}{chapter*.2}%
 \contentsline {chapter}{\numberline {1} مقدمه }{1}{chapter.1}%
-\contentsline {section}{\numberline {1.1} آنالیز تابعی }{1}{section.1.1}%
-\contentsline {subsection}{\numberline {1.1.1} فضاهای برداری }{1}{subsection.1.1.1}%
+\contentsline {section}{\numberline {1.1} مقدمه ای بر زبان های برنامه نویسی }{1}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1} برخی پارادایم های رایج }{1}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2} مقایسه دقیق تر پارادایم های تابعی و دستوری }{2}{subsection.1.1.2}%
 \contentsline {chapter}{\numberline {2} الگوریتم چندشبکه‌ای برای روش عناصر متناهی }{3}{chapter.2}%
 \contentsline {section}{\numberline {2.1} گسسته‌سازی }{4}{section.2.1}%
 \contentsline {subsection}{\numberline {2.1.1} گسسته‌سازی مکانی }{4}{subsection.2.1.1}%
