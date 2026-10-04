@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.8.26)  1 OCT 2026 15:01
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.8.26)  4 OCT 2026 15:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -736,12 +736,46 @@ Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
 \ALG@tmplength=\skip79
 )
 Document Style - pseudocode environments for use with the `algorithmicx' style
-) (D:\Applications\MikTex\tex/latex/natbib\natbib.sty
+) (D:\Applications\MikTex\tex/latex/listings\listings.sty
+\lst@mode=\count358
+\lst@gtempboxa=\box73
+\lst@token=\toks59
+\lst@length=\count359
+\lst@currlwidth=\dimen308
+\lst@column=\count360
+\lst@pos=\count361
+\lst@lostspace=\dimen309
+\lst@width=\dimen310
+\lst@newlines=\count362
+\lst@lineno=\count363
+\lst@maxwidth=\dimen311
+
+(D:\Applications\MikTex\tex/latex/listings\lstpatch.sty
+File: lstpatch.sty 2025/11/14 1.11b (Carsten Heinz)
+)
+(D:\Applications\MikTex\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2025/11/14 1.11b (Carsten Heinz)
+\c@lstnumber=\count364
+\lst@skipnumbers=\count365
+\lst@framebox=\box74
+)
+(D:\Applications\MikTex\tex/latex/listings\listings.cfg
+File: listings.cfg 2025/11/14 1.11b listings configuration
+))
+Package: listings 2025/11/14 1.11b (Carsten Heinz)
+
+==> First Aid for listings.sty no longer applied!
+    Expected:
+        2024/09/23 1.10c (Carsten Heinz)
+    but found:
+        2025/11/14 1.11b (Carsten Heinz)
+    so I'm assuming it got fixed.
+(D:\Applications\MikTex\tex/latex/natbib\natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip80
 \bibsep=\skip81
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count358
+\c@NAT@ctr=\count366
 )
 (D:\Applications\MikTex\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2025-07-12 v7.01o Hypertext links for LaTeX
@@ -787,15 +821,15 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 (D:\Applications\MikTex\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
-\c@section@level=\count359
+\c@section@level=\count367
 )
 (D:\Applications\MikTex\tex/generic/stringenc\stringenc.sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
-\@linkdim=\dimen308
-\Hy@linkcounter=\count360
-\Hy@pagecounter=\count361
+\@linkdim=\dimen312
+\Hy@linkcounter=\count368
+\Hy@pagecounter=\count369
 
 (D:\Applications\MikTex\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2025-07-12 v7.01o Hyperref: PDFDocEncoding definition (HO)
@@ -803,7 +837,7 @@ File: pd1enc.def 2025-07-12 v7.01o Hyperref: PDFDocEncoding definition (HO)
 (D:\Applications\MikTex\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count362
+\Hy@SavedSpaceFactor=\count370
 
 (D:\Applications\MikTex\tex/latex/hyperref\puenc.def
 File: puenc.def 2025-07-12 v7.01o Hyperref: PDF Unicode definition (HO)
@@ -816,9 +850,9 @@ Package hyperref Info: Plain pages OFF on input line 4210.
 Package hyperref Info: Backreferencing OFF on input line 4215.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4462.
-\c@Hy@tempcnt=\count363
+\c@Hy@tempcnt=\count371
 LaTeX Info: Redefining \url on input line 4801.
-\XeTeXLinkMargin=\dimen309
+\XeTeXLinkMargin=\dimen313
 
 (D:\Applications\MikTex\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -827,9 +861,9 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count364
-\Field@Width=\dimen310
-\Fld@charsize=\dimen311
+\Fld@menulength=\count372
+\Field@Width=\dimen314
+\Fld@charsize=\dimen315
 Package hyperref Info: Hyper figures OFF on input line 6078.
 Package hyperref Info: Link nesting OFF on input line 6083.
 Package hyperref Info: Hyper index ON on input line 6086.
@@ -837,19 +871,19 @@ Package hyperref Info: backreferencing OFF on input line 6093.
 Package hyperref Info: Link coloring ON on input line 6096.
 Package hyperref Info: Link coloring with OCG OFF on input line 6103.
 Package hyperref Info: PDF/A mode OFF on input line 6108.
-\Hy@abspage=\count365
-\c@Item=\count366
-\c@Hfootnote=\count367
+\Hy@abspage=\count373
+\c@Item=\count374
+\c@Hfootnote=\count375
 )
 Package hyperref Info: Driver (autodetected): hxetex.
 
 (D:\Applications\MikTex\tex/latex/hyperref\hxetex.def
 File: hxetex.def 2025-07-12 v7.01o Hyperref driver for XeTeX
-\pdfm@box=\box73
-\c@Hy@AnnotLevel=\count368
-\HyField@AnnotCount=\count369
-\Fld@listcount=\count370
-\c@bookmark@seq@number=\count371
+\pdfm@box=\box75
+\c@Hy@AnnotLevel=\count376
+\HyField@AnnotCount=\count377
+\Fld@listcount=\count378
+\c@bookmark@seq@number=\count379
 
 (D:\Applications\MikTex\tex/latex/rerunfilecheck\rerunfilecheck.sty
 Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
@@ -868,18 +902,18 @@ Package: geometry 2026/03/07 v6.0 Page Geometry
 (D:\Applications\MikTex\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count372
-\Gm@cntv=\count373
-\c@Gm@tempcnt=\count374
-\Gm@bindingoffset=\dimen312
-\Gm@wd@mp=\dimen313
-\Gm@odd@mp=\dimen314
-\Gm@even@mp=\dimen315
-\Gm@layoutwidth=\dimen316
-\Gm@layoutheight=\dimen317
-\Gm@layouthoffset=\dimen318
-\Gm@layoutvoffset=\dimen319
-\Gm@dimlist=\toks59
+\Gm@cnth=\count380
+\Gm@cntv=\count381
+\c@Gm@tempcnt=\count382
+\Gm@bindingoffset=\dimen316
+\Gm@wd@mp=\dimen317
+\Gm@odd@mp=\dimen318
+\Gm@even@mp=\dimen319
+\Gm@layoutwidth=\dimen320
+\Gm@layoutheight=\dimen321
+\Gm@layouthoffset=\dimen322
+\Gm@layoutvoffset=\dimen323
+\Gm@dimlist=\toks60
 
 (D:\Applications\MikTex\tex/latex/geometry\geometry.cfg))
 (D:\Applications\MikTex\tex/latex/tocbibind\tocbibind.sty
@@ -891,30 +925,28 @@ Package tocbibind Note: Using chapter style headings, unless overridden.
 
 ) (D:\Applications\MikTex\tex/latex/tools\multicol.sty
 Package: multicol 2025/10/21 v2.0b multicolumn formatting (FMi)
-\c@tracingmulticols=\count375
-\mult@box=\box74
-\multicol@leftmargin=\dimen320
-\c@unbalance=\count376
-\c@collectmore=\count377
-\doublecol@number=\count378
-\multicoltolerance=\count379
-\multicolpretolerance=\count380
-\full@width=\dimen321
-\page@free=\dimen322
-\premulticols=\dimen323
-\postmulticols=\dimen324
+\c@tracingmulticols=\count383
+\mult@box=\box76
+\multicol@leftmargin=\dimen324
+\c@unbalance=\count384
+\c@collectmore=\count385
+\doublecol@number=\count386
+\multicoltolerance=\count387
+\multicolpretolerance=\count388
+\full@width=\dimen325
+\page@free=\dimen326
+\premulticols=\dimen327
+\postmulticols=\dimen328
 \multicolsep=\skip83
 \multicolbaselineskip=\skip84
-\partial@page=\box75
-\last@line=\box76
-\mc@boxedresult=\box77
-\maxbalancingoverflow=\dimen325
-\mult@rightbox=\box78
-\mult@grightbox=\box79
-\mult@firstbox=\box80
-\mult@gfirstbox=\box81
-\@tempa=\box82
-\@tempa=\box83
+\partial@page=\box77
+\last@line=\box78
+\mc@boxedresult=\box79
+\maxbalancingoverflow=\dimen329
+\mult@rightbox=\box80
+\mult@grightbox=\box81
+\mult@firstbox=\box82
+\mult@gfirstbox=\box83
 \@tempa=\box84
 \@tempa=\box85
 \@tempa=\box86
@@ -949,16 +981,18 @@ Package: multicol 2025/10/21 v2.0b multicolumn formatting (FMi)
 \@tempa=\box115
 \@tempa=\box116
 \@tempa=\box117
-\c@minrows=\count381
-\c@columnbadness=\count382
-\c@finalcolumnbadness=\count383
-\last@try=\dimen326
-\multicolovershoot=\dimen327
-\multicolundershoot=\dimen328
-\mult@nat@firstbox=\box118
-\colbreak@box=\box119
-\mc@col@check@num=\count384
-\g__mc_curr_col_int=\count385
+\@tempa=\box118
+\@tempa=\box119
+\c@minrows=\count389
+\c@columnbadness=\count390
+\c@finalcolumnbadness=\count391
+\last@try=\dimen330
+\multicolovershoot=\dimen331
+\multicolundershoot=\dimen332
+\mult@nat@firstbox=\box120
+\colbreak@box=\box121
+\mc@col@check@num=\count392
+\g__mc_curr_col_int=\count393
 )
 (D:\Applications\MikTex\tex/latex/xepersian\xepersian.sty
 Package: xepersian 2026/01/01 v26.01.01 (Release Iran) Persian typesetting in X
@@ -993,9 +1027,9 @@ Package: expl3 2025-12-24 L3 programming layer (loader)
 
 (D:\Applications\MikTex\tex/latex/l3backend\l3backend-xetex.def
 File: l3backend-xetex.def 2025-10-09 L3 backend support: XeTeX
-\g__graphics_track_int=\count386
-\g__pdfannot_backend_int=\count387
-\g__pdfannot_backend_link_int=\count388
+\g__graphics_track_int=\count394
+\g__pdfannot_backend_int=\count395
+\g__pdfannot_backend_link_int=\count396
 ))
 Package: xparse 2025-10-09 L3 Experimental document command parser
 )
@@ -1004,20 +1038,20 @@ Package: fontspec 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTeX
 (D:\Applications\MikTex\tex/latex/fontspec\fontspec-xetex.sty
 Package: fontspec-xetex 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTe
 X
-\l__fontspec_script_int=\count389
-\l__fontspec_language_int=\count390
-\l__fontspec_strnum_int=\count391
-\l__fontspec_tmp_int=\count392
-\l__fontspec_tmpa_int=\count393
-\l__fontspec_tmpb_int=\count394
-\l__fontspec_tmpc_int=\count395
-\l__fontspec_em_int=\count396
-\l__fontspec_emdef_int=\count397
-\l__fontspec_strong_int=\count398
-\l__fontspec_strongdef_int=\count399
-\l__fontspec_tmpa_dim=\dimen329
-\l__fontspec_tmpb_dim=\dimen330
-\l__fontspec_tmpc_dim=\dimen331
+\l__fontspec_script_int=\count397
+\l__fontspec_language_int=\count398
+\l__fontspec_strnum_int=\count399
+\l__fontspec_tmp_int=\count400
+\l__fontspec_tmpa_int=\count401
+\l__fontspec_tmpb_int=\count402
+\l__fontspec_tmpc_int=\count403
+\l__fontspec_em_int=\count404
+\l__fontspec_emdef_int=\count405
+\l__fontspec_strong_int=\count406
+\l__fontspec_strongdef_int=\count407
+\l__fontspec_tmpa_dim=\dimen333
+\l__fontspec_tmpb_dim=\dimen334
+\l__fontspec_tmpc_dim=\dimen335
 
 (D:\Applications\MikTex\tex/latex/base\fontenc.sty
 Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
@@ -1025,43 +1059,43 @@ Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
 (D:\Applications\MikTex\tex/latex/fontspec\fontspec.cfg)))
 (D:\Applications\MikTex\tex/latex/xepersian\unicode-persiancal.sty
 Package: unicode-persiancal 2025/01/01 v0.3 Unicode Persian calendar
-\XePersian@i=\count400
-\XePersian@y=\count401
-\XePersian@m=\count402
-\XePersian@d=\count403
-\XePersian@latini=\count404
-\XePersian@persiani=\count405
-\XePersian@latinii=\count406
-\XePersian@persianii=\count407
-\XePersian@latiniii=\count408
-\XePersian@persianiii=\count409
-\XePersian@latiniv=\count410
-\XePersian@persianiv=\count411
-\XePersian@latinv=\count412
-\XePersian@persianv=\count413
-\XePersian@latinvi=\count414
-\XePersian@persianvi=\count415
-\XePersian@latinvii=\count416
-\XePersian@persianvii=\count417
-\XePersian@latinviii=\count418
-\XePersian@persianviii=\count419
-\XePersian@latinix=\count420
-\XePersian@persianix=\count421
-\XePersian@latinx=\count422
-\XePersian@persianx=\count423
-\XePersian@latinxi=\count424
-\XePersian@persianxi=\count425
-\XePersian@latinxii=\count426
-\XePersian@persianxii=\count427
-\XePersian@persianxiii=\count428
-\XePersian@temp=\count429
-\XePersian@temptwo=\count430
-\XePersian@tempthree=\count431
-\XePersian@yModHundred=\count432
-\XePersian@thirtytwo=\count433
-\XePersian@dn=\count434
-\XePersian@sn=\count435
-\XePersian@mminusone=\count436
+\XePersian@i=\count408
+\XePersian@y=\count409
+\XePersian@m=\count410
+\XePersian@d=\count411
+\XePersian@latini=\count412
+\XePersian@persiani=\count413
+\XePersian@latinii=\count414
+\XePersian@persianii=\count415
+\XePersian@latiniii=\count416
+\XePersian@persianiii=\count417
+\XePersian@latiniv=\count418
+\XePersian@persianiv=\count419
+\XePersian@latinv=\count420
+\XePersian@persianv=\count421
+\XePersian@latinvi=\count422
+\XePersian@persianvi=\count423
+\XePersian@latinvii=\count424
+\XePersian@persianvii=\count425
+\XePersian@latinviii=\count426
+\XePersian@persianviii=\count427
+\XePersian@latinix=\count428
+\XePersian@persianix=\count429
+\XePersian@latinx=\count430
+\XePersian@persianx=\count431
+\XePersian@latinxi=\count432
+\XePersian@persianxi=\count433
+\XePersian@latinxii=\count434
+\XePersian@persianxii=\count435
+\XePersian@persianxiii=\count436
+\XePersian@temp=\count437
+\XePersian@temptwo=\count438
+\XePersian@tempthree=\count439
+\XePersian@yModHundred=\count440
+\XePersian@thirtytwo=\count441
+\XePersian@dn=\count442
+\XePersian@sn=\count443
+\XePersian@mminusone=\count444
 )
 (D:\Applications\MikTex\tex/latex/xepersian\unicode-persianmath.sty
 Package: unicode-persianmath 2026/01/01 v1.2.6 Unicode Persian math
@@ -1097,19 +1131,19 @@ plain TeX and LaTeX
 ****************************************************
 (D:\Applications\MikTex\tex/latex/bidi\biditools.sty
 Package: biditools 2025/12/19 v2.9 Programming tools for bidi package
-\@bidi@envbody=\toks60
-\@bidi@emptytoks=\toks61
-\bidi@poscount=\count437
-\bidi@tempcountb=\count438
-\bidi@temptoksa=\toks62
-\bidi@temptoksb=\toks63
-\bidi@dummies=\count439
-\bidi@are@these@correct=\toks64
-\bidi@toks@lista=\toks65
-\bidi@toks@listb=\toks66
-\bidi@stack@length=\count440
-\bidi@empty@stack=\toks67
-\bidi@looprepeat@depth=\count441
+\@bidi@envbody=\toks61
+\@bidi@emptytoks=\toks62
+\bidi@poscount=\count445
+\bidi@tempcountb=\count446
+\bidi@temptoksa=\toks63
+\bidi@temptoksb=\toks64
+\bidi@dummies=\count447
+\bidi@are@these@correct=\toks65
+\bidi@toks@lista=\toks66
+\bidi@toks@listb=\toks67
+\bidi@stack@length=\count448
+\bidi@empty@stack=\toks68
+\bidi@looprepeat@depth=\count449
 )
 (D:\Applications\MikTex\tex/latex/zref\zref-abspage.sty
 Package: zref-abspage 2026-03-07 v2.37 Module abspage for zref (HO)
@@ -1127,28 +1161,28 @@ Package zref Info: New property list: main on input line 767.
 Package zref Info: New property: default on input line 768.
 Package zref Info: New property: page on input line 769.
 )
-\c@abspage=\count442
+\c@abspage=\count450
 Package zref Info: New property: abspage on input line 67.
 )
 \@bidi@copyins@=\insert252
-\bidi@typesethour=\count443
-\bidi@typesetminute=\count444
+\bidi@typesethour=\count451
+\bidi@typesetminute=\count452
 
 (D:\Applications\MikTex\tex/latex/bidi\latex-xetex-bidi.def
 File: latex-xetex-bidi.def 2025/12/19 v1.5.6 bidi adaptations for `latex.ltx' f
 or XeTeX engine
-\bidi@n@everypar=\toks68
+\bidi@n@everypar=\toks69
 LaTeX Info: Redefining \centerline on input line 317.
 LaTeX Info: Redefining \leftline on input line 326.
 LaTeX Info: Redefining \rightline on input line 327.
 LaTeX Info: Redefining \underline on input line 335.
-\bidi@column@check@number=\count445
+\bidi@column@check@number=\count453
 
 (D:\Applications\MikTex\tex/latex/bidi\footnote-xetex-bidi.def
 File: footnote-xetex-bidi.def 2025/09/30 v1.6 bidi footnote macros for XeTeX en
 gine
-\c@footdir@label=\count446
-\footdir@toks=\toks69
+\c@footdir@label=\count454
+\footdir@toks=\toks70
 )
 (D:\Applications\MikTex\tex/latex/bidi\report-xetex-bidi.def
 File: report-xetex-bidi.def 2025/12/19 v1.3 bidi adaptations for standard repor
@@ -1203,6 +1237,10 @@ kage for XeTeX engine
 File: hyperref-xetex-bidi.def 2025/12/06 v1.5 bidi adaptations for hyperref pac
 kage for XeTeX engine
 )
+(D:\Applications\MikTex\tex/latex/bidi\listings-xetex-bidi.def
+File: listings-xetex-bidi.def 2025/01/03 v1.6 bidi adaptations for listings pac
+kage for XeTeX engine
+)
 (D:\Applications\MikTex\tex/latex/bidi\mathtools-xetex-bidi.def
 File: mathtools-xetex-bidi.def 2025/01/03 v0.2 bidi adaptations for mathtools p
 ackage for XeTeX engine
@@ -1240,24 +1278,24 @@ f package for XeTeX engine
 (D:\Applications\MikTex\tex/latex/bidi\extrafootnotefeatures-xetex-bidi.def
 File: extrafootnotefeatures-xetex-bidi.def 2025/09/13 v2.8 bidi extra footnote 
 features for XeTeX engine
-\bidi@columnwidth=\dimen332
+\bidi@columnwidth=\dimen336
 \footmarkwidth=\skip85
 \footinsdim=\skip86
 \footinsv@r=\insert251
 \footinsv@l=\insert250
 \@mpfootinsv@r=\insert249
 \@mpfootinsv@l=\insert248
-\m@m@k=\count447
-\m@m@h=\dimen333
+\m@m@k=\count455
+\m@m@h=\dimen337
 \m@mipn@skip=\skip87
 )
-\bidi@digits=\count448
+\bidi@digits=\count456
 \bidi@digits@charclass=\XeTeXcharclass1
 \bidi@sepmark@charclass=\XeTeXcharclass2
 )
-\xepersian@tcl=\count449
-\xepersian@ilg=\dimen334
-\xepersian@strutilg=\dimen335
+\xepersian@tcl=\count457
+\xepersian@ilg=\dimen338
+\xepersian@strutilg=\dimen339
 
 (D:\Applications\MikTex\tex/latex/xepersian\footnote-xetex-bidi-xetex-xepersian
 .def
@@ -1281,6 +1319,10 @@ lgorithm package for XeTeX engine
 File: hyperref-xetex-xepersian.def 2022/10/30 v0.8 xepersian adaptations for hy
 perref package for XeTeX engine
 )
+(D:\Applications\MikTex\tex/latex/xepersian\listings-xetex-xepersian.def
+File: listings-xetex-xepersian.def 2014/07/17 v0.3 xepersian adaptations for li
+stings package for XeTeX engine
+)
 (D:\Applications\MikTex\tex/latex/xepersian\natbib-xetex-xepersian.def
 File: natbib-xetex-xepersian.def 2011/08/01 v0.1 xepersian adaptations for natb
 ib package for XeTeX engine
@@ -1290,7 +1332,7 @@ LaTeX Info: Redefining \Latincite on input line 245.
 File: url-xetex-xepersian.def 2025/09/03 v0.2 xepersian adaptations for url pac
 kage for XeTeX engine
 )
-\xepersian@toks=\toks70
+\xepersian@toks=\toks71
 )
 
 Package fontspec Info: 
@@ -1387,7 +1429,7 @@ rsian-tex-text;"
 ersian-tex-text;"
 
 LaTeX Font Info:    Font shape `TU/Yas(0)/m/n' will be
-(Font)              scaled to size 13.20007pt on input line 56.
+(Font)              scaled to size 13.20007pt on input line 57.
 
 Package fontspec Info: 
 (fontspec)             Times New Roman scale = 1.1.
@@ -1459,7 +1501,7 @@ ext;"
 (fontspec)             Roman/BI/OT:script=latn;language=dflt;+smcp;mapping=tex-
 text;"
 
-LaTeX Info: Redefining \latinfont on input line 59.
+LaTeX Info: Redefining \latinfont on input line 60.
 
 Package fontspec Info: 
 (fontspec)             Parsi Digits scale = 1.1.
@@ -1536,7 +1578,7 @@ Package fontspec Info:
 (fontspec)             <->s*[1.1]"Parsi Digits/BI/OT:language=dflt;"
 
 Package unicode-persianmath Info: DefiningthedefaultPersianmathdigitsfontas'Par
-si Digits' on input line 60.
+si Digits' on input line 61.
 \sympersianoperators=\mathgroup7
 \sympersianoperatorsbf=\mathgroup8
 \sympersianoperatorsit=\mathgroup9
@@ -1548,7 +1590,7 @@ si Digits' on input line 60.
 For immediate help type H <return>.
  ...                                              
                                                   
-l.60 \defpersianfont
+l.61 \defpersianfont
                     \percentfont[Scale=1.1]{Zar}
 ? 
 
@@ -1788,7 +1830,7 @@ persian-tex-text;"
 Package fontspec Info: 
 (fontspec)             XB Roya scale = 1.
 
-\c@theorem=\count450
+\c@theorem=\count458
 ) (commands/special.tex) (commands/commands.tex)
 
 ! LaTeX Error: Missing \begin{document}.
@@ -1847,7 +1889,9 @@ your preamble.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count459
 Package hyperref Info: Link coloring ON on input line 123.
 (main.out) (main.out)
 \@outlinefile=\write5
@@ -1918,7 +1962,7 @@ l.125 \defpage
 l.125 \defpage
                  %{برای تولید اطلاعیه دفاع این دستور را فعال کنید}
 ? 
-\c@xcntdef=\count451
+\c@xcntdef=\count460
 ! Undefined control sequence.
 <argument> \@supervisorB 
                          
@@ -2026,7 +2070,7 @@ File: ./styles/logo.jpg Graphic file (type bmp)
 l.128 \approvalpage
                     %{برای تولید صفحه صورتجلسه دفاعیه  این دستور را فعال کنید}
 ? 
-\c@cntdef=\count452
+\c@cntdef=\count461
 ! Undefined control sequence.
 <argument> \@supervisorB 
                          
@@ -2202,7 +2246,18 @@ LaTeX Font Info:    Font shape `TU/ParsiDigits(0)/b/n' will be
 [1
 
 
-]) (chapters/chapter2/chapter2.tex
+]
+LaTeX Font Info:    Font shape `TU/ParsiDigits(1)/m/n' will be
+(Font)              scaled to size 12.04506pt on input line 47.
+LaTeX Font Info:    Font shape `TU/ParsiDigits(1)/bx/n' in size <10.95> not ava
+ilable
+(Font)              Font shape `TU/ParsiDigits(1)/b/n' tried instead on input l
+ine 47.
+LaTeX Font Info:    Font shape `TU/ParsiDigits(1)/b/n' will be
+(Font)              scaled to size 12.04506pt on input line 47.
+LaTeX Font Info:    Font shape `TU/ParsiDigits(1)/m/it' will be
+(Font)              scaled to size 12.04506pt on input line 47.
+) (chapters/chapter2/chapter2.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2212,16 +2267,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [2]
 فصل 2.
-LaTeX Font Info:    Font shape `TU/ParsiDigits(1)/m/n' will be
-(Font)              scaled to size 12.04506pt on input line 20.
-LaTeX Font Info:    Font shape `TU/ParsiDigits(1)/bx/n' in size <10.95> not ava
-ilable
-(Font)              Font shape `TU/ParsiDigits(1)/b/n' tried instead on input l
-ine 20.
-LaTeX Font Info:    Font shape `TU/ParsiDigits(1)/b/n' will be
-(Font)              scaled to size 12.04506pt on input line 20.
-LaTeX Font Info:    Font shape `TU/ParsiDigits(1)/m/it' will be
-(Font)              scaled to size 12.04506pt on input line 20.
 LaTeX Font Info:    Font shape `TU/ParsiDigits(0)/m/n' will be
 (Font)              scaled to size 12.04506pt on input line 42.
 
@@ -2680,10 +2725,10 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 ### simple group (level 1) entered at line 8 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 42567 strings out of 402986
- 1003340 string characters out of 5453057
- 1535139 words of memory out of 5000000
- 70380 multiletter control sequences out of 15000+600000
+ 43755 strings out of 402986
+ 1021380 string characters out of 5453057
+ 1556717 words of memory out of 5000000
+ 71551 multiletter control sequences out of 15000+600000
  641090 words of font info for 218 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  104i,13n,120p,1226b,923s stack positions out of 10000i,1000n,20000p,200000b,200000s
