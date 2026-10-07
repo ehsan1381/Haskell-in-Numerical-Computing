@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.8.26)  7 OCT 2026 04:59
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.8.26)  7 OCT 2026 05:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2233,18 +2233,16 @@ LaTeX Font Info:    Font shape `TU/Yas(0)/b/n' will be
 (Font)              scaled to size 19.0081pt on input line 9.
 LaTeX Font Info:    Font shape `TU/ParsiDigits(0)/b/n' will be
 (Font)              scaled to size 19.0081pt on input line 9.
-LaTeX Font Info:    Font shape `TU/ParsiDigits(0)/b/n' will be
-(Font)              scaled to size 15.84007pt on input line 14.
 [1
 
 
 ]) (chapters/chapter2/chapter2.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                Make it at least 15.19664pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.19664pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+(fancyhdr)                \addtolength{\topmargin}{-3.19664pt}.
 
 [2]
 فصل 2.
@@ -2257,6 +2255,8 @@ LaTeX Warning: Reference `mainEqWeak' on page 4 undefined on input line 62.
 
 LaTeX Warning: Reference `mainEqWeak' on page 4 undefined on input line 67.
 
+LaTeX Font Info:    Font shape `TU/ParsiDigits(0)/b/n' will be
+(Font)              scaled to size 15.84007pt on input line 72.
 File: ./chapters/chapter2/figures/element.png Graphic file (type bmp)
 <./chapters/chapter2/figures/element.png>
 ) (chapters/other/corollary.tex
@@ -2715,8 +2715,14 @@ L3 programming layer <2025-12-24>
 
 LaTeX Warning: There were undefined references.
 
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: CB7A8496A25802C900774E36083871EC;3263.
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: DCAA7D787F0A9F3DD35879A49DB074F9;3278
+(rerunfilecheck)             After:  535EA89D0AD3B16303848525A12BFF64;3249.
  ) 
 Here is how much of TeX's memory you used:
  43739 strings out of 402986
