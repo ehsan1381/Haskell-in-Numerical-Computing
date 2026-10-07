@@ -4,12 +4,14 @@
 \contentsline {section}{\numberline {1.1} مقدمه ای بر زبان های برنامه نویسی }{1}{section.1.1}%
 \contentsline {section}{\numberline {1.2} برخی پارادایم های رایج }{1}{section.1.2}%
 \contentsline {section}{\numberline {1.3} مقایسه دقیق تر پارادایم های تابعی و دستوری }{2}{section.1.3}%
-\contentsline {chapter}{\numberline {2} الگوریتم چندشبکه‌ای برای روش عناصر متناهی }{3}{chapter.2}%
-\contentsline {section}{\numberline {2.1} گسسته‌سازی }{4}{section.2.1}%
-\contentsline {subsection}{\numberline {2.1.1} گسسته‌سازی مکانی }{4}{subsection.2.1.1}%
-\contentsline {chapter}{نتیجه‌گیری و پیشنهادات}{5}{chapter*.4}%
-\contentsline {chapter}{\text {\rl {کتاب‌نامه}}}{6}{chapter*.5}%
-\contentsline {chapter}{واژه‌نامه فارسی به انگلیسی}{11}{chapter*.6}%
-\contentsline {chapter}{واژه‌نامه انگلیسی به فارسی}{14}{chapter*.7}%
-\contentsline {chapter}{فهرست نمادها}{19}{chapter*.8}%
-\contentsline {chapter}{فهرست کلمات اختصاری}{20}{chapter*.9}%
+\contentsline {section}{\numberline {1.4} معرفی زبان \lr {\textup {Haskell}} }{2}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1} تاریخچه }{2}{subsection.1.4.1}%
+\contentsline {chapter}{\numberline {2} الگوریتم چندشبکه‌ای برای روش عناصر متناهی }{4}{chapter.2}%
+\contentsline {section}{\numberline {2.1} گسسته‌سازی }{5}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1} گسسته‌سازی مکانی }{5}{subsection.2.1.1}%
+\contentsline {chapter}{نتیجه‌گیری و پیشنهادات}{6}{chapter*.4}%
+\contentsline {chapter}{\text {\rl {کتاب‌نامه}}}{7}{chapter*.5}%
+\contentsline {chapter}{واژه‌نامه فارسی به انگلیسی}{12}{chapter*.6}%
+\contentsline {chapter}{واژه‌نامه انگلیسی به فارسی}{15}{chapter*.7}%
+\contentsline {chapter}{فهرست نمادها}{20}{chapter*.8}%
+\contentsline {chapter}{فهرست کلمات اختصاری}{21}{chapter*.9}%
