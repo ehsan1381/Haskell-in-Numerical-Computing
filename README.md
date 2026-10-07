@@ -13,3 +13,4 @@ Writing...
 - As a written work, paragraphs do not read well. They should be edited to be "smoother". 
 - Current division of chapters, sections and subsections is horrible. Must be fixed
 - Some statements were not fact checked. In a later edit they must be
+- Add a subsection 4.1 to define terms used throughout the writeup (like lazy, polymorphism, ... whatever comes up)
