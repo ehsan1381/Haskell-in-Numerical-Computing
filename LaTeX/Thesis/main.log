@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.8.26)  4 OCT 2026 15:39
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.8.26)  7 OCT 2026 04:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2212,17 +2212,9 @@ LaTeX Font Info:    Font shape `TU/ParsiDigits(0)/b/n' will be
 ] (abstracts/farsi_abstract.tex
 LaTeX Font Info:    Font shape `TU/Yas(0)/m/n' will be
 (Font)              scaled to size 12.04506pt on input line 8.
-)
-Underfull \hbox (badness 10000) in paragraph at lines 5--140
-[][]
- []
-
-[8] (chapters/other/introduction.tex
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
-(Font)              scaled to size 12.04506pt on input line 7.
-LaTeX Font Info:    Font shape `TU/Yas(0)/b/n' will be
-(Font)              scaled to size 12.04506pt on input line 23.
-
+(Font)              scaled to size 13.20007pt on input line 10.
+) [8] (chapters/other/introduction.tex
 
 Package natbib Warning: Citation `RefAHACwMG' on page نه undefined on input lin
 e 23.
@@ -2246,18 +2238,7 @@ LaTeX Font Info:    Font shape `TU/ParsiDigits(0)/b/n' will be
 [1
 
 
-]
-LaTeX Font Info:    Font shape `TU/ParsiDigits(1)/m/n' will be
-(Font)              scaled to size 12.04506pt on input line 47.
-LaTeX Font Info:    Font shape `TU/ParsiDigits(1)/bx/n' in size <10.95> not ava
-ilable
-(Font)              Font shape `TU/ParsiDigits(1)/b/n' tried instead on input l
-ine 47.
-LaTeX Font Info:    Font shape `TU/ParsiDigits(1)/b/n' will be
-(Font)              scaled to size 12.04506pt on input line 47.
-LaTeX Font Info:    Font shape `TU/ParsiDigits(1)/m/it' will be
-(Font)              scaled to size 12.04506pt on input line 47.
-) (chapters/chapter2/chapter2.tex
+]) (chapters/chapter2/chapter2.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2267,17 +2248,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [2]
 فصل 2.
-LaTeX Font Info:    Font shape `TU/ParsiDigits(0)/m/n' will be
-(Font)              scaled to size 12.04506pt on input line 42.
-
-LaTeX Warning: Reference `mainEqWeak' on page 3 undefined on input line 62.
-
-
-LaTeX Warning: Reference `mainEqWeak' on page 3 undefined on input line 67.
-
 [3
 
 ]
+
+LaTeX Warning: Reference `mainEqWeak' on page 4 undefined on input line 62.
+
+
+LaTeX Warning: Reference `mainEqWeak' on page 4 undefined on input line 67.
+
 File: ./chapters/chapter2/figures/element.png Graphic file (type bmp)
 <./chapters/chapter2/figures/element.png>
 ) (chapters/other/corollary.tex
@@ -2292,9 +2271,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 ]
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/it' will be
-(Font)              scaled to size 12.04506pt on input line 16.
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
-(Font)              scaled to size 13.20007pt on input line 83.
+(Font)              scaled to size 13.20007pt on input line 16.
  [6
 
 ]
@@ -2306,6 +2283,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [7]
+Underfull \hbox (badness 10000) in paragraph at lines 201--203
+[][]\TU/TimesNewRoman(0)/m/n/12 HYPRE: Scalable linear solvers and multigrid me
+thods,[]
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2321,7 +2303,19 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[9])
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 320--322
+[][]\TU/TimesNewRoman(0)/m/n/12 XBraid: Parallel time integration with multigri
+d,[]
+ []
+
+
+Underfull \hbox (badness 2521) in paragraph at lines 333--338
+[][]\TU/TimesNewRoman(0)/m/n/12 Yang, Y. (2015). Jacobi spectral Galerkin metho
+ds for fractional integro-[]
+ []
+
+)
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2398,11 +2392,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 79--81
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 85--88
-[][]
- []
-
-
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
@@ -2410,6 +2399,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [12]
+Underfull \hbox (badness 10000) in paragraph at lines 85--88
+[][]
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 92--93
 [][]
  []
@@ -2493,11 +2487,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 117--120
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 126--137
-[][]
- []
-
-
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
@@ -2505,6 +2494,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [16]
+Underfull \hbox (badness 10000) in paragraph at lines 126--137
+[][]
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 143--148
 [][]
  []
@@ -2587,9 +2581,13 @@ less.
 ine 2.
 
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(1)/m/n' will be
-(Font)              scaled to size 9.85492pt on input line 5.
+(Font)              scaled to size 10.79993pt on input line 5.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(1)/b/n' will be
-(Font)              scaled to size 9.85492pt on input line 8.
+(Font)              scaled to size 10.79993pt on input line 8.
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(1)/m/n' will be
+(Font)              scaled to size 9.85492pt on input line 41.
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
+(Font)              scaled to size 12.04506pt on input line 45.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(1)/m/it' will be
 (Font)              scaled to size 9.85492pt on input line 48.
 ) [21
@@ -2676,7 +2674,7 @@ l.182 \Eapprovalpage
 File: ./styles/Elogo.png Graphic file (type bmp)
 <./styles/Elogo.png>
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/b/n' will be
-(Font)              scaled to size 12.04506pt on input line 183.
+(Font)              scaled to size 13.20007pt on input line 183.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/b/n' will be
 (Font)              scaled to size 15.84007pt on input line 183.
 
@@ -2719,18 +2717,14 @@ LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: CB7A8496A25802C900774E36083871EC;3263.
- )
-(\end occurred inside a group at level 1)
-
-### simple group (level 1) entered at line 8 ({)
-### bottom level 
+ ) 
 Here is how much of TeX's memory you used:
- 43755 strings out of 402986
- 1021380 string characters out of 5453057
- 1556717 words of memory out of 5000000
- 71551 multiletter control sequences out of 15000+600000
- 641090 words of font info for 218 fonts, out of 8000000 for 9000
+ 43739 strings out of 402986
+ 1020963 string characters out of 5453057
+ 1556716 words of memory out of 5000000
+ 71539 multiletter control sequences out of 15000+600000
+ 639345 words of font info for 207 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 104i,13n,120p,1226b,923s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 104i,13n,120p,1226b,822s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on main.pdf (34 pages).
