@@ -1,0 +1,8 @@
+main :: IO ()
+main = do line :: String <- getLine
+          print (parseDigit line)
+  where parseDigit :: String -> Maybe Int
+        parseDigit ((c :: Char) : _) =
+          if isDigit c
+             then Just (ord c - ord '0')
+             else Nothing
