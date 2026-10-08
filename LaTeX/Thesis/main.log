@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.8.26)  7 OCT 2026 05:46
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.8.26)  8 OCT 2026 09:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -736,28 +736,105 @@ Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
 \ALG@tmplength=\skip79
 )
 Document Style - pseudocode environments for use with the `algorithmicx' style
-) (D:\Applications\MikTex\tex/latex/listings\listings.sty
-\lst@mode=\count358
-\lst@gtempboxa=\box73
+) (D:\Applications\MikTex\tex/latex/tcolorbox\tcolorbox.sty
+Package: tcolorbox 2025/11/28 version 6.9.0 text color boxes
+
+(D:\Applications\MikTex\tex/latex/environ\environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+(D:\Applications\MikTex\tex/latex/trimspaces\trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+))
+\tcb@titlebox=\box73
+\tcb@upperbox=\box74
+\tcb@lowerbox=\box75
+\tcb@phantombox=\box76
+\c@tcbbreakpart=\count358
+\c@tcblayer=\count359
+\c@tcolorbox@number=\count360
+\l__tcobox_tmpa_box=\box77
+\l__tcobox_tmpa_dim=\dimen308
+\tcb@temp=\box78
+\tcb@temp=\box79
+\tcb@temp=\box80
+\tcb@temp=\box81
+
+(D:\Applications\MikTex\tex/latex/tcolorbox\tcbraster.code.tex
+Library (tcolorbox): 'tcbraster.code.tex' version '6.9.0'
+\c@tcbrastercolumn=\count361
+\c@tcbrasterrow=\count362
+\c@tcbrasternum=\count363
+\c@tcbraster=\count364
+) (D:\Applications\MikTex\tex/latex/tcolorbox\tcbskins.code.tex
+Library (tcolorbox): 'tcbskins.code.tex' version '6.9.0'
+(D:\Applications\MikTex\tex/latex/tikzfill\tikzfill.image.sty
+Package: tikzfill.image 2026/04/23 v1.2.0 Image filling library for TikZ
+
+(D:\Applications\MikTex\tex/latex/tikzfill\tikzlibraryfill.image.code.tex
+File: tikzlibraryfill.image.code.tex 2026/04/23 v1.2.0 Image filling library
+\l__tikzfill_tmpa_dim=\dimen309
+\l__tikzfill_tmpb_dim=\dimen310
+\l__tikzfill_img_box=\box82
+))
+(D:\Applications\MikTex\tex/latex/tcolorbox\tcbskinsjigsaw.code.tex
+Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '6.9.0'
+)) (D:\Applications\MikTex\tex/latex/tcolorbox\tcbbreakable.code.tex
+Library (tcolorbox): 'tcbbreakable.code.tex' version '6.9.0'
+(D:\Applications\MikTex\tex/latex/pdfcol\pdfcol.sty
+Package: pdfcol 2022-09-21 v1.7 Handle new color stacks for pdfTeX (HO)
+
+(D:\Applications\MikTex\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(D:\Applications\MikTex\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(D:\Applications\MikTex\tex/generic/iftex\iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+)
+Package pdfcol Info: Interface disabled because of missing PDF mode of pdfTeX.
+)
+Package pdfcol Info: pdfTeX's color stacks are not available.
+\tcb@testbox=\box83
+\tcb@totalupperbox=\box84
+\tcb@totallowerbox=\box85
+)
+(D:\Applications\MikTex\tex/latex/tcolorbox\tcbhooks.code.tex
+Library (tcolorbox): 'tcbhooks.code.tex' version '6.9.0'
+) (D:\Applications\MikTex\tex/latex/tcolorbox\tcbtheorems.code.tex
+Library (tcolorbox): 'tcbtheorems.code.tex' version '6.9.0'
+) (D:\Applications\MikTex\tex/latex/tcolorbox\tcbfitting.code.tex
+Library (tcolorbox): 'tcbfitting.code.tex' version '6.9.0'
+\tcbfitdim=\dimen311
+\tcb@lowerfitdim=\dimen312
+\tcb@upperfitdim=\dimen313
+\tcb@cur@hbadness=\count365
+) (D:\Applications\MikTex\tex/latex/tcolorbox\tcblistingsutf8.code.tex
+Library (tcolorbox): 'tcblistingsutf8.code.tex' version '6.9.0'
+(D:\Applications\MikTex\tex/latex/tcolorbox\tcblistings.code.tex
+Library (tcolorbox): 'tcblistings.code.tex' version '6.9.0'
+(D:\Applications\MikTex\tex/latex/listings\listings.sty
+\lst@mode=\count366
+\lst@gtempboxa=\box86
 \lst@token=\toks59
-\lst@length=\count359
-\lst@currlwidth=\dimen308
-\lst@column=\count360
-\lst@pos=\count361
-\lst@lostspace=\dimen309
-\lst@width=\dimen310
-\lst@newlines=\count362
-\lst@lineno=\count363
-\lst@maxwidth=\dimen311
+\lst@length=\count367
+\lst@currlwidth=\dimen314
+\lst@column=\count368
+\lst@pos=\count369
+\lst@lostspace=\dimen315
+\lst@width=\dimen316
+\lst@newlines=\count370
+\lst@lineno=\count371
+\lst@maxwidth=\dimen317
 
 (D:\Applications\MikTex\tex/latex/listings\lstpatch.sty
 File: lstpatch.sty 2025/11/14 1.11b (Carsten Heinz)
 )
 (D:\Applications\MikTex\tex/latex/listings\lstmisc.sty
 File: lstmisc.sty 2025/11/14 1.11b (Carsten Heinz)
-\c@lstnumber=\count364
-\lst@skipnumbers=\count365
-\lst@framebox=\box74
+\c@lstnumber=\count372
+\lst@skipnumbers=\count373
+\lst@framebox=\box87
 )
 (D:\Applications\MikTex\tex/latex/listings\listings.cfg
 File: listings.cfg 2025/11/14 1.11b listings configuration
@@ -770,19 +847,40 @@ Package: listings 2025/11/14 1.11b (Carsten Heinz)
     but found:
         2025/11/14 1.11b (Carsten Heinz)
     so I'm assuming it got fixed.
-(D:\Applications\MikTex\tex/latex/natbib\natbib.sty
+(D:\Applications\MikTex\tex/latex/tcolorbox\tcblistingscore.code.tex
+Library (tcolorbox): 'tcblistingscore.code.tex' version '6.9.0'
+(D:\Applications\MikTex\tex/latex/tcolorbox\tcbprocessing.code.tex
+Library (tcolorbox): 'tcbprocessing.code.tex' version '6.9.0'
+)
+\c@tcblisting=\count374
+))
+Package tcolorbox Info: Library `listingsutf8' is compatible with pdftex only. 
+Library `listings` is loaded instead. on input line 29.
+) (D:\Applications\MikTex\tex/latex/tcolorbox\tcbexternal.code.tex
+Library (tcolorbox): 'tcbexternal.code.tex' version '6.9.0'
+) (D:\Applications\MikTex\tex/latex/tcolorbox\tcbmagazine.code.tex
+Library (tcolorbox): 'tcbmagazine.code.tex' version '6.9.0'
+) (D:\Applications\MikTex\tex/latex/tcolorbox\tcbvignette.code.tex
+Library (tcolorbox): 'tcbvignette.code.tex' version '6.9.0'
+
+(D:\Applications\MikTex\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrar
+yfadings.code.tex
+File: tikzlibraryfadings.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+
+(D:\Applications\MikTex\tex/generic/pgf/libraries\pgflibraryfadings.code.tex
+File: pgflibraryfadings.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))) (D:\Applications\MikTex\tex/latex/tcolorbox\tcbposter.code.tex
+Library (tcolorbox): 'tcbposter.code.tex' version '6.9.0'
+)) (D:\Applications\MikTex\tex/latex/natbib\natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip80
 \bibsep=\skip81
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count366
+\c@NAT@ctr=\count375
 )
 (D:\Applications\MikTex\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2025-07-12 v7.01o Hypertext links for LaTeX
 
-(D:\Applications\MikTex\tex/generic/iftex\iftex.sty
-Package: iftex 2024/12/12 v1.0g TeX engine tests
-)
 (D:\Applications\MikTex\tex/latex/kvsetkeys\kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 )
@@ -792,15 +890,8 @@ Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 (D:\Applications\MikTex\tex/generic/pdfescape\pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
 
-(D:\Applications\MikTex\tex/generic/ltxcmds\ltxcmds.sty
-Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
-)
 (D:\Applications\MikTex\tex/generic/pdftexcmds\pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
-)
-
-(D:\Applications\MikTex\tex/generic/infwarerr\infwarerr.sty
-Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
@@ -821,15 +912,15 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 (D:\Applications\MikTex\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
-\c@section@level=\count367
+\c@section@level=\count376
 )
 (D:\Applications\MikTex\tex/generic/stringenc\stringenc.sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
-\@linkdim=\dimen312
-\Hy@linkcounter=\count368
-\Hy@pagecounter=\count369
+\@linkdim=\dimen318
+\Hy@linkcounter=\count377
+\Hy@pagecounter=\count378
 
 (D:\Applications\MikTex\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2025-07-12 v7.01o Hyperref: PDFDocEncoding definition (HO)
@@ -837,7 +928,7 @@ File: pd1enc.def 2025-07-12 v7.01o Hyperref: PDFDocEncoding definition (HO)
 (D:\Applications\MikTex\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count370
+\Hy@SavedSpaceFactor=\count379
 
 (D:\Applications\MikTex\tex/latex/hyperref\puenc.def
 File: puenc.def 2025-07-12 v7.01o Hyperref: PDF Unicode definition (HO)
@@ -850,9 +941,9 @@ Package hyperref Info: Plain pages OFF on input line 4210.
 Package hyperref Info: Backreferencing OFF on input line 4215.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4462.
-\c@Hy@tempcnt=\count371
+\c@Hy@tempcnt=\count380
 LaTeX Info: Redefining \url on input line 4801.
-\XeTeXLinkMargin=\dimen313
+\XeTeXLinkMargin=\dimen319
 
 (D:\Applications\MikTex\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -861,9 +952,9 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count372
-\Field@Width=\dimen314
-\Fld@charsize=\dimen315
+\Fld@menulength=\count381
+\Field@Width=\dimen320
+\Fld@charsize=\dimen321
 Package hyperref Info: Hyper figures OFF on input line 6078.
 Package hyperref Info: Link nesting OFF on input line 6083.
 Package hyperref Info: Hyper index ON on input line 6086.
@@ -871,19 +962,19 @@ Package hyperref Info: backreferencing OFF on input line 6093.
 Package hyperref Info: Link coloring ON on input line 6096.
 Package hyperref Info: Link coloring with OCG OFF on input line 6103.
 Package hyperref Info: PDF/A mode OFF on input line 6108.
-\Hy@abspage=\count373
-\c@Item=\count374
-\c@Hfootnote=\count375
+\Hy@abspage=\count382
+\c@Item=\count383
+\c@Hfootnote=\count384
 )
 Package hyperref Info: Driver (autodetected): hxetex.
 
 (D:\Applications\MikTex\tex/latex/hyperref\hxetex.def
 File: hxetex.def 2025-07-12 v7.01o Hyperref driver for XeTeX
-\pdfm@box=\box75
-\c@Hy@AnnotLevel=\count376
-\HyField@AnnotCount=\count377
-\Fld@listcount=\count378
-\c@bookmark@seq@number=\count379
+\pdfm@box=\box88
+\c@Hy@AnnotLevel=\count385
+\HyField@AnnotCount=\count386
+\Fld@listcount=\count387
+\c@bookmark@seq@number=\count388
 
 (D:\Applications\MikTex\tex/latex/rerunfilecheck\rerunfilecheck.sty
 Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
@@ -902,17 +993,17 @@ Package: geometry 2026/03/07 v6.0 Page Geometry
 (D:\Applications\MikTex\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count380
-\Gm@cntv=\count381
-\c@Gm@tempcnt=\count382
-\Gm@bindingoffset=\dimen316
-\Gm@wd@mp=\dimen317
-\Gm@odd@mp=\dimen318
-\Gm@even@mp=\dimen319
-\Gm@layoutwidth=\dimen320
-\Gm@layoutheight=\dimen321
-\Gm@layouthoffset=\dimen322
-\Gm@layoutvoffset=\dimen323
+\Gm@cnth=\count389
+\Gm@cntv=\count390
+\c@Gm@tempcnt=\count391
+\Gm@bindingoffset=\dimen322
+\Gm@wd@mp=\dimen323
+\Gm@odd@mp=\dimen324
+\Gm@even@mp=\dimen325
+\Gm@layoutwidth=\dimen326
+\Gm@layoutheight=\dimen327
+\Gm@layouthoffset=\dimen328
+\Gm@layoutvoffset=\dimen329
 \Gm@dimlist=\toks60
 
 (D:\Applications\MikTex\tex/latex/geometry\geometry.cfg))
@@ -925,41 +1016,28 @@ Package tocbibind Note: Using chapter style headings, unless overridden.
 
 ) (D:\Applications\MikTex\tex/latex/tools\multicol.sty
 Package: multicol 2025/10/21 v2.0b multicolumn formatting (FMi)
-\c@tracingmulticols=\count383
-\mult@box=\box76
-\multicol@leftmargin=\dimen324
-\c@unbalance=\count384
-\c@collectmore=\count385
-\doublecol@number=\count386
-\multicoltolerance=\count387
-\multicolpretolerance=\count388
-\full@width=\dimen325
-\page@free=\dimen326
-\premulticols=\dimen327
-\postmulticols=\dimen328
+\c@tracingmulticols=\count392
+\mult@box=\box89
+\multicol@leftmargin=\dimen330
+\c@unbalance=\count393
+\c@collectmore=\count394
+\doublecol@number=\count395
+\multicoltolerance=\count396
+\multicolpretolerance=\count397
+\full@width=\dimen331
+\page@free=\dimen332
+\premulticols=\dimen333
+\postmulticols=\dimen334
 \multicolsep=\skip83
 \multicolbaselineskip=\skip84
-\partial@page=\box77
-\last@line=\box78
-\mc@boxedresult=\box79
-\maxbalancingoverflow=\dimen329
-\mult@rightbox=\box80
-\mult@grightbox=\box81
-\mult@firstbox=\box82
-\mult@gfirstbox=\box83
-\@tempa=\box84
-\@tempa=\box85
-\@tempa=\box86
-\@tempa=\box87
-\@tempa=\box88
-\@tempa=\box89
-\@tempa=\box90
-\@tempa=\box91
-\@tempa=\box92
-\@tempa=\box93
-\@tempa=\box94
-\@tempa=\box95
-\@tempa=\box96
+\partial@page=\box90
+\last@line=\box91
+\mc@boxedresult=\box92
+\maxbalancingoverflow=\dimen335
+\mult@rightbox=\box93
+\mult@grightbox=\box94
+\mult@firstbox=\box95
+\mult@gfirstbox=\box96
 \@tempa=\box97
 \@tempa=\box98
 \@tempa=\box99
@@ -983,16 +1061,29 @@ Package: multicol 2025/10/21 v2.0b multicolumn formatting (FMi)
 \@tempa=\box117
 \@tempa=\box118
 \@tempa=\box119
-\c@minrows=\count389
-\c@columnbadness=\count390
-\c@finalcolumnbadness=\count391
-\last@try=\dimen330
-\multicolovershoot=\dimen331
-\multicolundershoot=\dimen332
-\mult@nat@firstbox=\box120
-\colbreak@box=\box121
-\mc@col@check@num=\count392
-\g__mc_curr_col_int=\count393
+\@tempa=\box120
+\@tempa=\box121
+\@tempa=\box122
+\@tempa=\box123
+\@tempa=\box124
+\@tempa=\box125
+\@tempa=\box126
+\@tempa=\box127
+\@tempa=\box128
+\@tempa=\box129
+\@tempa=\box130
+\@tempa=\box131
+\@tempa=\box132
+\c@minrows=\count398
+\c@columnbadness=\count399
+\c@finalcolumnbadness=\count400
+\last@try=\dimen336
+\multicolovershoot=\dimen337
+\multicolundershoot=\dimen338
+\mult@nat@firstbox=\box133
+\colbreak@box=\box134
+\mc@col@check@num=\count401
+\g__mc_curr_col_int=\count402
 )
 (D:\Applications\MikTex\tex/latex/xepersian\xepersian.sty
 Package: xepersian 2026/01/01 v26.01.01 (Release Iran) Persian typesetting in X
@@ -1027,9 +1118,9 @@ Package: expl3 2025-12-24 L3 programming layer (loader)
 
 (D:\Applications\MikTex\tex/latex/l3backend\l3backend-xetex.def
 File: l3backend-xetex.def 2025-10-09 L3 backend support: XeTeX
-\g__graphics_track_int=\count394
-\g__pdfannot_backend_int=\count395
-\g__pdfannot_backend_link_int=\count396
+\g__graphics_track_int=\count403
+\g__pdfannot_backend_int=\count404
+\g__pdfannot_backend_link_int=\count405
 ))
 Package: xparse 2025-10-09 L3 Experimental document command parser
 )
@@ -1038,20 +1129,20 @@ Package: fontspec 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTeX
 (D:\Applications\MikTex\tex/latex/fontspec\fontspec-xetex.sty
 Package: fontspec-xetex 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTe
 X
-\l__fontspec_script_int=\count397
-\l__fontspec_language_int=\count398
-\l__fontspec_strnum_int=\count399
-\l__fontspec_tmp_int=\count400
-\l__fontspec_tmpa_int=\count401
-\l__fontspec_tmpb_int=\count402
-\l__fontspec_tmpc_int=\count403
-\l__fontspec_em_int=\count404
-\l__fontspec_emdef_int=\count405
-\l__fontspec_strong_int=\count406
-\l__fontspec_strongdef_int=\count407
-\l__fontspec_tmpa_dim=\dimen333
-\l__fontspec_tmpb_dim=\dimen334
-\l__fontspec_tmpc_dim=\dimen335
+\l__fontspec_script_int=\count406
+\l__fontspec_language_int=\count407
+\l__fontspec_strnum_int=\count408
+\l__fontspec_tmp_int=\count409
+\l__fontspec_tmpa_int=\count410
+\l__fontspec_tmpb_int=\count411
+\l__fontspec_tmpc_int=\count412
+\l__fontspec_em_int=\count413
+\l__fontspec_emdef_int=\count414
+\l__fontspec_strong_int=\count415
+\l__fontspec_strongdef_int=\count416
+\l__fontspec_tmpa_dim=\dimen339
+\l__fontspec_tmpb_dim=\dimen340
+\l__fontspec_tmpc_dim=\dimen341
 
 (D:\Applications\MikTex\tex/latex/base\fontenc.sty
 Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
@@ -1059,43 +1150,43 @@ Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
 (D:\Applications\MikTex\tex/latex/fontspec\fontspec.cfg)))
 (D:\Applications\MikTex\tex/latex/xepersian\unicode-persiancal.sty
 Package: unicode-persiancal 2025/01/01 v0.3 Unicode Persian calendar
-\XePersian@i=\count408
-\XePersian@y=\count409
-\XePersian@m=\count410
-\XePersian@d=\count411
-\XePersian@latini=\count412
-\XePersian@persiani=\count413
-\XePersian@latinii=\count414
-\XePersian@persianii=\count415
-\XePersian@latiniii=\count416
-\XePersian@persianiii=\count417
-\XePersian@latiniv=\count418
-\XePersian@persianiv=\count419
-\XePersian@latinv=\count420
-\XePersian@persianv=\count421
-\XePersian@latinvi=\count422
-\XePersian@persianvi=\count423
-\XePersian@latinvii=\count424
-\XePersian@persianvii=\count425
-\XePersian@latinviii=\count426
-\XePersian@persianviii=\count427
-\XePersian@latinix=\count428
-\XePersian@persianix=\count429
-\XePersian@latinx=\count430
-\XePersian@persianx=\count431
-\XePersian@latinxi=\count432
-\XePersian@persianxi=\count433
-\XePersian@latinxii=\count434
-\XePersian@persianxii=\count435
-\XePersian@persianxiii=\count436
-\XePersian@temp=\count437
-\XePersian@temptwo=\count438
-\XePersian@tempthree=\count439
-\XePersian@yModHundred=\count440
-\XePersian@thirtytwo=\count441
-\XePersian@dn=\count442
-\XePersian@sn=\count443
-\XePersian@mminusone=\count444
+\XePersian@i=\count417
+\XePersian@y=\count418
+\XePersian@m=\count419
+\XePersian@d=\count420
+\XePersian@latini=\count421
+\XePersian@persiani=\count422
+\XePersian@latinii=\count423
+\XePersian@persianii=\count424
+\XePersian@latiniii=\count425
+\XePersian@persianiii=\count426
+\XePersian@latiniv=\count427
+\XePersian@persianiv=\count428
+\XePersian@latinv=\count429
+\XePersian@persianv=\count430
+\XePersian@latinvi=\count431
+\XePersian@persianvi=\count432
+\XePersian@latinvii=\count433
+\XePersian@persianvii=\count434
+\XePersian@latinviii=\count435
+\XePersian@persianviii=\count436
+\XePersian@latinix=\count437
+\XePersian@persianix=\count438
+\XePersian@latinx=\count439
+\XePersian@persianx=\count440
+\XePersian@latinxi=\count441
+\XePersian@persianxi=\count442
+\XePersian@latinxii=\count443
+\XePersian@persianxii=\count444
+\XePersian@persianxiii=\count445
+\XePersian@temp=\count446
+\XePersian@temptwo=\count447
+\XePersian@tempthree=\count448
+\XePersian@yModHundred=\count449
+\XePersian@thirtytwo=\count450
+\XePersian@dn=\count451
+\XePersian@sn=\count452
+\XePersian@mminusone=\count453
 )
 (D:\Applications\MikTex\tex/latex/xepersian\unicode-persianmath.sty
 Package: unicode-persianmath 2026/01/01 v1.2.6 Unicode Persian math
@@ -1133,17 +1224,17 @@ plain TeX and LaTeX
 Package: biditools 2025/12/19 v2.9 Programming tools for bidi package
 \@bidi@envbody=\toks61
 \@bidi@emptytoks=\toks62
-\bidi@poscount=\count445
-\bidi@tempcountb=\count446
+\bidi@poscount=\count454
+\bidi@tempcountb=\count455
 \bidi@temptoksa=\toks63
 \bidi@temptoksb=\toks64
-\bidi@dummies=\count447
+\bidi@dummies=\count456
 \bidi@are@these@correct=\toks65
 \bidi@toks@lista=\toks66
 \bidi@toks@listb=\toks67
-\bidi@stack@length=\count448
+\bidi@stack@length=\count457
 \bidi@empty@stack=\toks68
-\bidi@looprepeat@depth=\count449
+\bidi@looprepeat@depth=\count458
 )
 (D:\Applications\MikTex\tex/latex/zref\zref-abspage.sty
 Package: zref-abspage 2026-03-07 v2.37 Module abspage for zref (HO)
@@ -1161,12 +1252,12 @@ Package zref Info: New property list: main on input line 767.
 Package zref Info: New property: default on input line 768.
 Package zref Info: New property: page on input line 769.
 )
-\c@abspage=\count450
+\c@abspage=\count459
 Package zref Info: New property: abspage on input line 67.
 )
 \@bidi@copyins@=\insert252
-\bidi@typesethour=\count451
-\bidi@typesetminute=\count452
+\bidi@typesethour=\count460
+\bidi@typesetminute=\count461
 
 (D:\Applications\MikTex\tex/latex/bidi\latex-xetex-bidi.def
 File: latex-xetex-bidi.def 2025/12/19 v1.5.6 bidi adaptations for `latex.ltx' f
@@ -1176,12 +1267,12 @@ LaTeX Info: Redefining \centerline on input line 317.
 LaTeX Info: Redefining \leftline on input line 326.
 LaTeX Info: Redefining \rightline on input line 327.
 LaTeX Info: Redefining \underline on input line 335.
-\bidi@column@check@number=\count453
+\bidi@column@check@number=\count462
 
 (D:\Applications\MikTex\tex/latex/bidi\footnote-xetex-bidi.def
 File: footnote-xetex-bidi.def 2025/09/30 v1.6 bidi footnote macros for XeTeX en
 gine
-\c@footdir@label=\count454
+\c@footdir@label=\count463
 \footdir@toks=\toks70
 )
 (D:\Applications\MikTex\tex/latex/bidi\report-xetex-bidi.def
@@ -1261,6 +1352,10 @@ File: pgfsys-xetex-bidi.def 2025/01/05 v0.1 bidi adaptations for pgfsys package
 File: tabularx-xetex-bidi.def 2014/11/08 v0.1 bidi adaptations for tabularx pac
 kage for XeTeX engine
 )
+(D:\Applications\MikTex\tex/latex/bidi\tcolorbox-xetex-bidi.def
+File: tcolorbox-xetex-bidi.def 2018/11/11 v0.2 bidi adaptations for tcolorbox p
+ackage for XeTeX engine
+)
 (D:\Applications\MikTex\tex/latex/bidi\tocbibind-xetex-bidi.def
 File: tocbibind-xetex-bidi.def 2025/01/03 v0.5 bidi adaptations for tocbibind p
 ackage for XeTeX engine
@@ -1278,24 +1373,24 @@ f package for XeTeX engine
 (D:\Applications\MikTex\tex/latex/bidi\extrafootnotefeatures-xetex-bidi.def
 File: extrafootnotefeatures-xetex-bidi.def 2025/09/13 v2.8 bidi extra footnote 
 features for XeTeX engine
-\bidi@columnwidth=\dimen336
+\bidi@columnwidth=\dimen342
 \footmarkwidth=\skip85
 \footinsdim=\skip86
 \footinsv@r=\insert251
 \footinsv@l=\insert250
 \@mpfootinsv@r=\insert249
 \@mpfootinsv@l=\insert248
-\m@m@k=\count455
-\m@m@h=\dimen337
+\m@m@k=\count464
+\m@m@h=\dimen343
 \m@mipn@skip=\skip87
 )
-\bidi@digits=\count456
+\bidi@digits=\count465
 \bidi@digits@charclass=\XeTeXcharclass1
 \bidi@sepmark@charclass=\XeTeXcharclass2
 )
-\xepersian@tcl=\count457
-\xepersian@ilg=\dimen338
-\xepersian@strutilg=\dimen339
+\xepersian@tcl=\count466
+\xepersian@ilg=\dimen344
+\xepersian@strutilg=\dimen345
 
 (D:\Applications\MikTex\tex/latex/xepersian\footnote-xetex-bidi-xetex-xepersian
 .def
@@ -1429,7 +1524,7 @@ rsian-tex-text;"
 ersian-tex-text;"
 
 LaTeX Font Info:    Font shape `TU/Yas(0)/m/n' will be
-(Font)              scaled to size 13.20007pt on input line 57.
+(Font)              scaled to size 13.20007pt on input line 111.
 
 Package fontspec Info: 
 (fontspec)             Times New Roman scale = 1.1.
@@ -1501,7 +1596,7 @@ ext;"
 (fontspec)             Roman/BI/OT:script=latn;language=dflt;+smcp;mapping=tex-
 text;"
 
-LaTeX Info: Redefining \latinfont on input line 60.
+LaTeX Info: Redefining \latinfont on input line 114.
 
 Package fontspec Info: 
 (fontspec)             Parsi Digits scale = 1.1.
@@ -1578,7 +1673,7 @@ Package fontspec Info:
 (fontspec)             <->s*[1.1]"Parsi Digits/BI/OT:language=dflt;"
 
 Package unicode-persianmath Info: DefiningthedefaultPersianmathdigitsfontas'Par
-si Digits' on input line 61.
+si Digits' on input line 115.
 \sympersianoperators=\mathgroup7
 \sympersianoperatorsbf=\mathgroup8
 \sympersianoperatorsit=\mathgroup9
@@ -1590,8 +1685,8 @@ si Digits' on input line 61.
 For immediate help type H <return>.
  ...                                              
                                                   
-l.61 \defpersianfont
-                    \percentfont[Scale=1.1]{Zar}
+l.115 \defpersianfont
+                     \percentfont[Scale=1.1]{Zar}
 ? 
 
 Package fontspec Info: 
@@ -1830,7 +1925,7 @@ persian-tex-text;"
 Package fontspec Info: 
 (fontspec)             XB Roya scale = 1.
 
-\c@theorem=\count458
+\c@theorem=\count467
 ) (commands/special.tex) (commands/commands.tex)
 
 ! LaTeX Error: Missing \begin{document}.
@@ -1891,7 +1986,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\c@lstlisting=\count459
+\c@lstlisting=\count468
 Package hyperref Info: Link coloring ON on input line 123.
 (main.out) (main.out)
 \@outlinefile=\write5
@@ -1962,7 +2057,7 @@ l.125 \defpage
 l.125 \defpage
                  %{برای تولید اطلاعیه دفاع این دستور را فعال کنید}
 ? 
-\c@xcntdef=\count460
+\c@xcntdef=\count469
 ! Undefined control sequence.
 <argument> \@supervisorB 
                          
@@ -2070,7 +2165,7 @@ File: ./styles/logo.jpg Graphic file (type bmp)
 l.128 \approvalpage
                     %{برای تولید صفحه صورتجلسه دفاعیه  این دستور را فعال کنید}
 ? 
-\c@cntdef=\count461
+\c@cntdef=\count470
 ! Undefined control sequence.
 <argument> \@supervisorB 
                          
@@ -2202,6 +2297,8 @@ LaTeX Font Info:    Font shape `TU/Yas(0)/b/n' will be
  [1] (main.toc
 LaTeX Font Info:    Font shape `TU/ParsiDigits(0)/b/n' will be
 (Font)              scaled to size 13.20007pt on input line 3.
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
+(Font)              scaled to size 13.20007pt on input line 7.
 )
 \tf@toc=\write6
 \openout6 = `main.toc'.
@@ -2212,8 +2309,6 @@ LaTeX Font Info:    Font shape `TU/ParsiDigits(0)/b/n' will be
 ] (abstracts/farsi_abstract.tex
 LaTeX Font Info:    Font shape `TU/Yas(0)/m/n' will be
 (Font)              scaled to size 12.04506pt on input line 8.
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
-(Font)              scaled to size 13.20007pt on input line 10.
 ) [8] (chapters/other/introduction.tex
 
 Package natbib Warning: Citation `RefAHACwMG' on page نه undefined on input lin
@@ -2242,10 +2337,6 @@ LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/b/n' will be
 LaTeX Font Info:    Font shape `TU/ParsiDigits(0)/b/n' will be
 (Font)              scaled to size 15.84007pt on input line 71.
 
-Underfull \hbox (badness 10000) in paragraph at lines 72--82
-[][]
- []
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 15.19664pt, for example:
@@ -2253,7 +2344,20 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-3.19664pt}.
 
-[2]) (chapters/chapter2/chapter2.tex
+[2]
+\g__tcobox_out_iow=\write7
+\openout7 = `main.listing'.
+
+ (D:\Applications\MikTex\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2025/11/14 1.11b listings language file
+)
+(D:\Applications\MikTex\tex/latex/listings\lstlang2.sty
+File: lstlang2.sty 2025/11/14 1.11b listings language file
+) (main.listing
+LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <10.95> not available
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 2.
+))
+(chapters/chapter2/chapter2.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2729,24 +2833,21 @@ L3 programming layer <2025-12-24>
 LaTeX Warning: There were undefined references.
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
 Package rerunfilecheck Warning: File `main.out' has changed.
 (rerunfilecheck)                Rerun to get outlines right
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: 535EA89D0AD3B16303848525A12BFF64;3249
-(rerunfilecheck)             After:  5A5A92BD0889BA701DC011BEB933678F;3577.
+(rerunfilecheck)             Before: 88AFD6AB1C27D8CF48DFF3CB4896E222;3594
+(rerunfilecheck)             After:  9E2FF680A37E907876DD92D06FEE1ADD;3799.
  ) 
 Here is how much of TeX's memory you used:
- 43738 strings out of 402986
- 1020950 string characters out of 5453057
- 1556716 words of memory out of 5000000
- 71538 multiletter control sequences out of 15000+600000
- 639345 words of font info for 207 fonts, out of 8000000 for 9000
+ 49422 strings out of 402986
+ 1173486 string characters out of 5453057
+ 1950847 words of memory out of 5000000
+ 77138 multiletter control sequences out of 15000+600000
+ 639361 words of font info for 209 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 104i,13n,120p,1226b,822s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 104i,13n,120p,1226b,2286s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on main.pdf (35 pages).
