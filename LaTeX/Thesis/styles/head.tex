@@ -57,6 +57,7 @@
   keepspaces=true,
   showstringspaces=false,
   breaklines=true,
+  lineskip=-1.5pt,
   % highlight operators like ->, ::, <-, =
   literate=
     {->}{{{\color{hsop}->}}}2
@@ -70,9 +71,11 @@
   enhanced,
   colback=ghbg,
   colframe=ghborder,
-  boxrule=0.8pt,
-  arc=3pt,
-  left=8pt, right=8pt, top=6pt, bottom=6pt,
+  boxrule=0.5pt,
+  arc=2pt,
+  boxsep=0pt,
+  left=5pt, right=5pt, top=3pt, bottom=3pt,
+  before skip=6pt, after skip=6pt,
   listing options={style=ghhaskell},
   #1
 }
