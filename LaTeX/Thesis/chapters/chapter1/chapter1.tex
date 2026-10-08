@@ -120,3 +120,16 @@ $z=f(x)$
 زبان هسکل دارای ویژگی 
 \eng{Type Inference}
 یا استباط نوع است به این معنی که میتواند درباره نوع عبارات به صورت خودکار بدون دخالت کاربر استدلال کند و تشخیص دهد عبارت چه نوعی دارد.
+\newline
+\begin{latin}
+\begin{ghcode}
+main :: IO ()
+main = do line :: String <- getLine
+          print (parseDigit line)
+  where parseDigit :: String -> Maybe Int
+        parseDigit ((c :: Char) : _) =
+          if isDigit c
+             then Just (ord c - ord '0')
+             else Nothing
+\end{ghcode}
+\end{latin}
