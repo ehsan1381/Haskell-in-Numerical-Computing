@@ -65,6 +65,19 @@
     {<-}{{{\color{hsop}<-}}}2
     {-}{{{\color{hsop}-}}}1
 }
+\lstdefinestyle{ghinline}{
+  style=ghhaskell,
+  basicstyle=\ttfamily\small\color{hsdef},
+  backgroundcolor=\color{ghbg},   % light gray highlight like GitHub's `code`
+  breaklines=false
+}
+
+% Short inline form: `code` works like $math$
+\lstMakeShortInline[style=ghinline]`
+
+\NewDocumentCommand{\hs}{v}{%
+  \lr{\lstinline[style=ghinline]{#1}}%
+}
 
 \newtcblisting{ghcode}[1][]{
   listing only,
