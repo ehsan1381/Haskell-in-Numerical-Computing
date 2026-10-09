@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.8.26)  8 OCT 2026 09:11
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.8.26)  9 OCT 2026 09:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -871,14 +871,61 @@ File: tikzlibraryfadings.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 File: pgflibraryfadings.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 ))) (D:\Applications\MikTex\tex/latex/tcolorbox\tcbposter.code.tex
 Library (tcolorbox): 'tcbposter.code.tex' version '6.9.0'
-)) (D:\Applications\MikTex\tex/latex/natbib\natbib.sty
+))
+Package Listings Info: Made ` a short reference for \lstinline on input line 76
+.
+ (D:\Applications\MikTex\tex/latex/natbib\natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \let 
+l.364 \begingroup \catcode`
+                           \_=8
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \let 
+l.364 \begingroup \catcode`
+                           \_=8
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.364 \begingroup \catcode`
+                           \_=8
+? 
+(D:\Applications\MikTex\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2025/11/14 1.11b listings language file
+)
+(D:\Applications\MikTex\tex/latex/listings\lstlang2.sty
+File: lstlang2.sty 2025/11/14 1.11b listings language file
+)
+! Undefined control sequence.
+\set@color ->\special {color push \current@color 
+                                                 }\aftergroup \reset@color 
+l.364 \begingroup \catcode`\_=8
+                               
+? 
+
+! Package Listings Error: lstinline ended by EOL.
+
+See the Listings package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.364 \begingroup \catcode`\_=8
+                               
+? 
 \bibhang=\skip80
 \bibsep=\skip81
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count375
-)
-(D:\Applications\MikTex\tex/latex/hyperref\hyperref.sty
+) (D:\Applications\MikTex\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2025-07-12 v7.01o Hypertext links for LaTeX
 
 (D:\Applications\MikTex\tex/latex/kvsetkeys\kvsetkeys.sty
@@ -1524,7 +1571,7 @@ rsian-tex-text;"
 ersian-tex-text;"
 
 LaTeX Font Info:    Font shape `TU/Yas(0)/m/n' will be
-(Font)              scaled to size 13.20007pt on input line 111.
+(Font)              scaled to size 13.20007pt on input line 124.
 
 Package fontspec Info: 
 (fontspec)             Times New Roman scale = 1.1.
@@ -1596,7 +1643,7 @@ ext;"
 (fontspec)             Roman/BI/OT:script=latn;language=dflt;+smcp;mapping=tex-
 text;"
 
-LaTeX Info: Redefining \latinfont on input line 114.
+LaTeX Info: Redefining \latinfont on input line 127.
 
 Package fontspec Info: 
 (fontspec)             Parsi Digits scale = 1.1.
@@ -1673,7 +1720,7 @@ Package fontspec Info:
 (fontspec)             <->s*[1.1]"Parsi Digits/BI/OT:language=dflt;"
 
 Package unicode-persianmath Info: DefiningthedefaultPersianmathdigitsfontas'Par
-si Digits' on input line 115.
+si Digits' on input line 128.
 \sympersianoperators=\mathgroup7
 \sympersianoperatorsbf=\mathgroup8
 \sympersianoperatorsit=\mathgroup9
@@ -1685,7 +1732,7 @@ si Digits' on input line 115.
 For immediate help type H <return>.
  ...                                              
                                                   
-l.115 \defpersianfont
+l.128 \defpersianfont
                      \percentfont[Scale=1.1]{Zar}
 ? 
 
@@ -2311,12 +2358,12 @@ LaTeX Font Info:    Font shape `TU/Yas(0)/m/n' will be
 (Font)              scaled to size 12.04506pt on input line 8.
 ) [8] (chapters/other/introduction.tex
 
-Package natbib Warning: Citation `RefAHACwMG' on page نه undefined on input lin
-e 23.
+Package natbib Warning: Citation \lstinline[style=ghinline]`RefAHACwMG' on page
+ نه undefined on input line 23.
 
 
-Package natbib Warning: Citation `RefOPFGP' on page نه undefined on input line 
-41.
+Package natbib Warning: Citation \lstinline[style=ghinline]`RefOPFGP' on page ن
+ه undefined on input line 41.
 
 ) [9
 
@@ -2348,16 +2395,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 \g__tcobox_out_iow=\write7
 \openout7 = `main.listing'.
 
- (D:\Applications\MikTex\tex/latex/listings\lstlang1.sty
-File: lstlang1.sty 2025/11/14 1.11b listings language file
-)
-(D:\Applications\MikTex\tex/latex/listings\lstlang2.sty
-File: lstlang2.sty 2025/11/14 1.11b listings language file
-) (main.listing
+ (main.listing
 LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <10.95> not available
 (Font)              Font shape `TU/lmtt/b/n' tried instead on input line 2.
-))
-(chapters/chapter2/chapter2.tex
+)
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2366,83 +2407,52 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [3]
-فصل 2.
-[4
+\openout7 = `main.listing'.
+
+ (main.listing)) (chapters/chapter2/chapter2.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[4]
+Runaway argument?
+{ 
+! Paragraph ended before \Hy@org@chapter was complete.
+<to be read again> 
+                   \par 
+l.3 }
+     
+? 
+! Too many }'s.
+\@xdblarg #1#2->#1[{#2}
+                       ]{#2}
+l.3 }
+     
+? 
+) (chapters/other/corollary.tex [5
+
+]) (references/references.tex [6
 
 ]
 
-LaTeX Warning: Reference `mainEqWeak' on page 5 undefined on input line 62.
+! LaTeX Error: Something's wrong--perhaps a missing \item.
 
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 \end{LTRbibitems}
+                      
+? 
 
-LaTeX Warning: Reference `mainEqWeak' on page 5 undefined on input line 67.
+Package natbib Warning: Empty `thebibliography' environment on input line 21.
 
-File: ./chapters/chapter2/figures/element.png Graphic file (type bmp)
-<./chapters/chapter2/figures/element.png>
-) (chapters/other/corollary.tex
+) [7
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[5]) (references/references.tex [6
-
-]
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/it' will be
-(Font)              scaled to size 13.20007pt on input line 16.
- [7
-
-]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[8]
-Underfull \hbox (badness 10000) in paragraph at lines 201--203
-[][]\TU/TimesNewRoman(0)/m/n/12 HYPRE: Scalable linear solvers and multigrid me
-thods,[]
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[9]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[10]
-Underfull \hbox (badness 10000) in paragraph at lines 320--322
-[][]\TU/TimesNewRoman(0)/m/n/12 XBraid: Parallel time integration with multigri
-d,[]
- []
-
-
-Underfull \hbox (badness 2521) in paragraph at lines 333--338
-[][]\TU/TimesNewRoman(0)/m/n/12 Yang, Y. (2015). Jacobi spectral Galerkin metho
-ds for fractional integro-[]
- []
-
-)
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[11] (dictionaries/dictionary_farsi_to_english.tex
+] (dictionaries/dictionary_farsi_to_english.tex
 Underfull \hbox (badness 10000) in paragraph at lines 10--12
 [][]
  []
@@ -2472,7 +2482,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 41--42
 [][]
  []
 
-[12
+[8
 
 
 ]
@@ -2517,7 +2527,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[13]
+[9]
 Underfull \hbox (badness 10000) in paragraph at lines 85--88
 [][]
  []
@@ -2540,7 +2550,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[14] (dictionaries/dictionary_english_to_farsi.tex
+[10] (dictionaries/dictionary_english_to_farsi.tex
 Underfull \hbox (badness 10000) in paragraph at lines 11--13
 [][]
  []
@@ -2555,7 +2565,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 27--41
 [][]
  []
 
-[15
+[11
 
 
 ]
@@ -2590,7 +2600,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[16]
+[12]
 Underfull \hbox (badness 10000) in paragraph at lines 96--97
 [][]
  []
@@ -2612,7 +2622,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[17]
+[13]
 Underfull \hbox (badness 10000) in paragraph at lines 126--137
 [][]
  []
@@ -2639,7 +2649,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[18]
+[14]
 Underfull \hbox (badness 10000) in paragraph at lines 173--174
 [][]
  []
@@ -2662,7 +2672,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[19]
+[15]
 LaTeX Font Info:    Font shape `TU/Yas(0)/m/n' will be
 (Font)              scaled to size 8.80005pt on input line 7.
 LaTeX Font Info:    Font shape `TU/Yas(0)/m/n' will be
@@ -2677,7 +2687,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--13
 [][]
  []
 
-) [20
+) [16
 
 ] (lists/list_of_abbreviation.tex
 Underfull \hbox (badness 10000) in paragraph at lines 7--8
@@ -2689,7 +2699,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--14
 [][]
  []
 
-) [21
+) [17
 
 
 ] (abstracts/english_abstract.tex
@@ -2709,7 +2719,7 @@ LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
 (Font)              scaled to size 12.04506pt on input line 45.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(1)/m/it' will be
 (Font)              scaled to size 9.85492pt on input line 48.
-) [22
+) [18
 
 ]
 File: ./styles/Elogo.png Graphic file (type bmp)
@@ -2828,26 +2838,16 @@ Package natbib Warning: There were undefined citations.
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: 88AFD6AB1C27D8CF48DFF3CB4896E222;3594
-(rerunfilecheck)             After:  9E2FF680A37E907876DD92D06FEE1ADD;3799.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: AE2EC2E462D6F08BC5649729536A4DE7;3054.
  ) 
 Here is how much of TeX's memory you used:
- 49422 strings out of 402986
- 1173486 string characters out of 5453057
- 1950847 words of memory out of 5000000
- 77138 multiletter control sequences out of 15000+600000
- 639361 words of font info for 209 fonts, out of 8000000 for 9000
+ 49274 strings out of 402986
+ 1170635 string characters out of 5453057
+ 1815249 words of memory out of 5000000
+ 76991 multiletter control sequences out of 15000+600000
+ 639353 words of font info for 208 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 104i,13n,120p,1226b,2286s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 104i,12n,136p,1226b,1761s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (35 pages).
+Output written on main.pdf (31 pages).
