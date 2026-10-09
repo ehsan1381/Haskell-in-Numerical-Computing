@@ -132,3 +132,22 @@ main = do line :: String <- getLine
              else Nothing
 \end{ghcode}
 \end{latin}
+عمل این برش کوتاه کد در اینجا مورد بحث نیست، اما در هرجه که نماد
+\hs{::}
+ آمده نوع متغیر یا عبارت مشخص میشود. مثلا در
+\hs{parseDigit :: String -> Maybe Int}
+نام 
+\hs{parseDigit}
+نوع تابعی که رشته دریافت و نوع 
+\hs{Maybe Int}
+خروجی میدهد را میگیرد. ویژگی استنباط نوع باعث میشود در بسیاری از موارد دیگر نیازی به مشخص کردن نوع نباشد. کد زیر معادل کد بالاست. 
+\begin{latin}
+\begin{ghcode}
+main = do line <- getLine
+          print (parseDigit line)
+  where parseDigit (c : _) =
+          if isDigit c
+             then Just (ord c - ord '0')
+             else Nothing
+\end{ghcode}
+\end{latin}
