@@ -14,3 +14,4 @@ Writing...
 - Current division of chapters, sections and subsections is horrible. Must be fixed
 - Some statements were not fact checked. In a later edit they must be
 - Add a subsection 4.1 to define terms used throughout the writeup (like lazy, polymorphism, ... whatever comes up)
+- More content will be added to chapter 1 section 4. They will be focused on more related dicussions.
