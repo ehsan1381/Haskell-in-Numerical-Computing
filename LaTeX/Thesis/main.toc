@@ -7,9 +7,9 @@
 \contentsline {section}{\numberline {1.4} معرفی زبان \lr {\textup {Haskell}} }{2}{section.1.4}%
 \contentsline {subsection}{\numberline {1.4.1} تاریخچه }{2}{subsection.1.4.1}%
 \contentsline {subsection}{\numberline {1.4.2} ویژگی های مهم زبان }{3}{subsection.1.4.2}%
-\contentsline {chapter}{نتیجه‌گیری و پیشنهادات}{6}{chapter*.3}%
-\contentsline {chapter}{\text {\rl {کتاب‌نامه}}}{7}{chapter*.4}%
-\contentsline {chapter}{واژه‌نامه فارسی به انگلیسی}{8}{chapter*.5}%
-\contentsline {chapter}{واژه‌نامه انگلیسی به فارسی}{11}{chapter*.6}%
-\contentsline {chapter}{فهرست نمادها}{16}{chapter*.7}%
-\contentsline {chapter}{فهرست کلمات اختصاری}{17}{chapter*.8}%
+\contentsline {chapter}{نتیجه‌گیری و پیشنهادات}{5}{chapter*.3}%
+\contentsline {chapter}{\text {\rl {کتاب‌نامه}}}{6}{chapter*.4}%
+\contentsline {chapter}{واژه‌نامه فارسی به انگلیسی}{7}{chapter*.5}%
+\contentsline {chapter}{واژه‌نامه انگلیسی به فارسی}{10}{chapter*.6}%
+\contentsline {chapter}{فهرست نمادها}{15}{chapter*.7}%
+\contentsline {chapter}{فهرست کلمات اختصاری}{16}{chapter*.8}%
