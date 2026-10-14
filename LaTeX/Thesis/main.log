@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.8.26)  9 OCT 2026 10:26
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.8.26)  14 OCT 2026 06:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2346,6 +2346,8 @@ LaTeX Font Info:    Font shape `TU/ParsiDigits(0)/b/n' will be
 (Font)              scaled to size 13.20007pt on input line 3.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
 (Font)              scaled to size 13.20007pt on input line 7.
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/b/n' will be
+(Font)              scaled to size 13.20007pt on input line 10.
 )
 \tf@toc=\write6
 \openout6 = `main.toc'.
@@ -2420,7 +2422,7 @@ Type  H <return>  for immediate help.
 l.154 \newline
               
 ? 
-) (chapters/other/corollary.tex
+) (chapters/chapter2/chapter2.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2428,23 +2430,25 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[4]) (references/references.tex [5
+[4]
+فصل 2.
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/b/n' will be
+(Font)              scaled to size 27.36815pt on input line 4.
+) (references/references.tex [5
 
 ]
 
-! LaTeX Error: Something's wrong--perhaps a missing \item.
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.19 \end{LTRbibitems}
-                      
-? 
+[6]
 
 Package natbib Warning: Empty `thebibliography' environment on input line 21.
 
-) [6
+) [7
 
 ] (dictionaries/dictionary_farsi_to_english.tex
 Underfull \hbox (badness 10000) in paragraph at lines 10--12
@@ -2476,7 +2480,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 41--42
 [][]
  []
 
-[7
+[8
 
 
 ]
@@ -2521,7 +2525,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[8]
+[9]
 Underfull \hbox (badness 10000) in paragraph at lines 85--88
 [][]
  []
@@ -2544,7 +2548,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[9] (dictionaries/dictionary_english_to_farsi.tex
+[10] (dictionaries/dictionary_english_to_farsi.tex
 Underfull \hbox (badness 10000) in paragraph at lines 11--13
 [][]
  []
@@ -2559,7 +2563,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 27--41
 [][]
  []
 
-[10
+[11
 
 
 ]
@@ -2594,7 +2598,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[11]
+[12]
 Underfull \hbox (badness 10000) in paragraph at lines 96--97
 [][]
  []
@@ -2616,7 +2620,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[12]
+[13]
 Underfull \hbox (badness 10000) in paragraph at lines 126--137
 [][]
  []
@@ -2643,7 +2647,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[13]
+[14]
 Underfull \hbox (badness 10000) in paragraph at lines 173--174
 [][]
  []
@@ -2666,7 +2670,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[14]
+[15]
 LaTeX Font Info:    Font shape `TU/Yas(0)/m/n' will be
 (Font)              scaled to size 8.80005pt on input line 7.
 LaTeX Font Info:    Font shape `TU/Yas(0)/m/n' will be
@@ -2681,7 +2685,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--13
 [][]
  []
 
-) [15
+) [16
 
 ] (lists/list_of_abbreviation.tex
 Underfull \hbox (badness 10000) in paragraph at lines 7--8
@@ -2693,7 +2697,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--14
 [][]
  []
 
-) [16
+) [17
 
 
 ] (abstracts/english_abstract.tex
@@ -2713,7 +2717,7 @@ LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
 (Font)              scaled to size 12.04506pt on input line 45.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(1)/m/it' will be
 (Font)              scaled to size 9.85492pt on input line 48.
-) [17
+) [18
 
 ]
 File: ./styles/Elogo.png Graphic file (type bmp)
@@ -2795,8 +2799,6 @@ l.182 \Eapprovalpage
 File: ./styles/Elogo.png Graphic file (type bmp)
 <./styles/Elogo.png>
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/b/n' will be
-(Font)              scaled to size 13.20007pt on input line 183.
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/b/n' will be
 (Font)              scaled to size 15.84007pt on input line 183.
 
 ! Undefined control sequence.
@@ -2833,15 +2835,15 @@ LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: AE2EC2E462D6F08BC5649729536A4DE7;3054.
+(rerunfilecheck)             Checksum: 6E1B0A2E2A4ECA5233F35FEE65BA98DD;3287.
  ) 
 Here is how much of TeX's memory you used:
- 49265 strings out of 402986
- 1170343 string characters out of 5453057
- 1815249 words of memory out of 5000000
- 76986 multiletter control sequences out of 15000+600000
- 639353 words of font info for 208 fonts, out of 8000000 for 9000
+ 49277 strings out of 402986
+ 1170562 string characters out of 5453057
+ 1815245 words of memory out of 5000000
+ 76995 multiletter control sequences out of 15000+600000
+ 639361 words of font info for 209 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  104i,12n,136p,1226b,1761s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (30 pages).
+Output written on main.pdf (31 pages).
