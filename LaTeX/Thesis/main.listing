@@ -1,6 +1,5 @@
-main = do line <- getLine
-          print (parseDigit line)
-  where parseDigit (c : _) =
-          if isDigit c
-             then Just (ord c - ord '0')
-             else Nothing
+-- This is a Haskell comment
+----- So is this
+{- Also
+        This
+-}
