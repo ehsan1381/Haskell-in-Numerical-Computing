@@ -58,12 +58,14 @@
   showstringspaces=false,
   breaklines=true,
   lineskip=-1.5pt,
+  morecomment=[l]{--},
+  morecomment=[n]{\{-}{-\}},
+  commentstyle=\color{hscom}\itshape,
   % highlight operators like ->, ::, <-, =
   literate=
     {->}{{{\color{hsop}->}}}2
     {::}{{{\color{hsop}::}}}2
     {<-}{{{\color{hsop}<-}}}2
-    {-}{{{\color{hsop}-}}}1
 }
 \lstdefinestyle{ghinline}{
   style=ghhaskell,
