@@ -32,41 +32,41 @@
 \definecolor{ghbg}{HTML}{F6F8FA}
 \definecolor{ghborder}{HTML}{D0D7DE}
 
-% Syntax colors (GitHub light palette)
-\definecolor{hskw}{HTML}{CF222E}    % keywords: do, where, if, then, else
-\definecolor{hstype}{HTML}{953800}  % types: IO, String, Maybe, Int, Char
-\definecolor{hsfun}{HTML}{8250DF}   % functions/constructors: print, ord, Just
-\definecolor{hsstr}{HTML}{0A3069}   % strings
-\definecolor{hscom}{HTML}{6E7781}   % comments
-\definecolor{hsop}{HTML}{0550AE}    % operators and numbers
-\definecolor{hsdef}{HTML}{24292F}   % default text
+
+\definecolor{hsdecl}{HTML}{CF222E}
+\definecolor{hskw}{HTML}{8250DF}
+\definecolor{hstype}{HTML}{0A7E8C}
+\definecolor{hscon}{HTML}{B35900}
+\definecolor{hsfun}{HTML}{0550AE}
+\definecolor{hsop}{HTML}{BF3989}
+\definecolor{hsstr}{HTML}{1A7F37}
+\definecolor{hscom}{HTML}{6E7781}
+\definecolor{hsdef}{HTML}{24292F}
 
 \lstdefinestyle{ghhaskell}{
   language=Haskell,
   basicstyle=\ttfamily\small\color{hsdef},
   keywordstyle=\color{hskw}\bfseries,
-  % [1] types
-  emph={IO,String,Maybe,Int,Char,Integer,Double,Bool},
+  morekeywords=[2]{data,type,newtype,class,instance,module,import,deriving,foreign,default,infix,infixl,infixr,where,qualified,as,hiding},
+  keywordstyle=[2]\color{hsdecl}\bfseries,
+  emph={IO,String,Maybe,Int,Char,Integer,Double,Float,Bool,Either,Word},
   emphstyle=\color{hstype},
-  % [2] common functions and constructors
-  emph={[2]getLine,print,isDigit,ord,chr,Just,Nothing,True,False},
-  emphstyle={[2]\color{hsfun}},
+  emph={[2]Just,Nothing,Left,Right,True,False},
+  emphstyle={[2]\color{hscon}},
+  emph={[3]getLine,putStrLn,print,isDigit,ord,chr,map,filter,foldr,foldl,zipWith,iterate,show,read},
+  emphstyle={[3]\color{hsfun}},
   stringstyle=\color{hsstr},
+  morecomment=[l]{--},
+  morecomment=[n]{\{-}{-\}},
   commentstyle=\color{hscom}\itshape,
   columns=fullflexible,
   keepspaces=true,
   showstringspaces=false,
   breaklines=true,
   lineskip=-1.5pt,
-  morecomment=[l]{--},
-  morecomment=[n]{\{-}{-\}},
-  commentstyle=\color{hscom}\itshape,
-  % highlight operators like ->, ::, <-, =
-  literate=
-    {->}{{{\color{hsop}->}}}2
-    {::}{{{\color{hsop}::}}}2
-    {<-}{{{\color{hsop}<-}}}2
+  literate={->}{{{\color{hsop}->}}}2 {<-}{{{\color{hsop}<-}}}2 {::}{{{\color{hsop}::}}}2 {=>}{{{\color{hsop}=>}}}2
 }
+
 \lstdefinestyle{ghinline}{
   style=ghhaskell,
   basicstyle=\ttfamily\small\color{hsdef},
@@ -75,7 +75,7 @@
 }
 
 % Short inline form: `code` works like $math$
-\lstMakeShortInline[style=ghinline]`
+% \lstMakeShortInline[style=ghinline]`
 
 \NewDocumentCommand{\hs}{v}{%
   \lr{\lstinline[style=ghinline]{#1}}%
