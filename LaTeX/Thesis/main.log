@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.8.26)  15 OCT 2026 05:38
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.8.26)  16 OCT 2026 10:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -871,61 +871,14 @@ File: tikzlibraryfadings.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 File: pgflibraryfadings.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 ))) (D:\Applications\MikTex\tex/latex/tcolorbox\tcbposter.code.tex
 Library (tcolorbox): 'tcbposter.code.tex' version '6.9.0'
-))
-Package Listings Info: Made ` a short reference for \lstinline on input line 78
-.
- (D:\Applications\MikTex\tex/latex/natbib\natbib.sty
+)) (D:\Applications\MikTex\tex/latex/natbib\natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \let 
-l.364 \begingroup \catcode`
-                           \_=8
-? 
-! Missing number, treated as zero.
-<to be read again> 
-                   \let 
-l.364 \begingroup \catcode`
-                           \_=8
-? 
-
-! LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.364 \begingroup \catcode`
-                           \_=8
-? 
-(D:\Applications\MikTex\tex/latex/listings\lstlang1.sty
-File: lstlang1.sty 2025/11/14 1.11b listings language file
-)
-(D:\Applications\MikTex\tex/latex/listings\lstlang2.sty
-File: lstlang2.sty 2025/11/14 1.11b listings language file
-)
-! Undefined control sequence.
-\set@color ->\special {color push \current@color 
-                                                 }\aftergroup \reset@color 
-l.364 \begingroup \catcode`\_=8
-                               
-? 
-
-! Package Listings Error: lstinline ended by EOL.
-
-See the Listings package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.364 \begingroup \catcode`\_=8
-                               
-? 
 \bibhang=\skip80
 \bibsep=\skip81
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count375
-) (D:\Applications\MikTex\tex/latex/hyperref\hyperref.sty
+)
+(D:\Applications\MikTex\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2025-07-12 v7.01o Hypertext links for LaTeX
 
 (D:\Applications\MikTex\tex/latex/kvsetkeys\kvsetkeys.sty
@@ -2360,12 +2313,12 @@ LaTeX Font Info:    Font shape `TU/Yas(0)/m/n' will be
 (Font)              scaled to size 12.04506pt on input line 8.
 ) [8] (chapters/other/introduction.tex
 
-Package natbib Warning: Citation \lstinline[style=ghinline]`RefAHACwMG' on page
- نه undefined on input line 23.
+Package natbib Warning: Citation `RefAHACwMG' on page نه undefined on input lin
+e 23.
 
 
-Package natbib Warning: Citation \lstinline[style=ghinline]`RefOPFGP' on page ن
-ه undefined on input line 41.
+Package natbib Warning: Citation `RefOPFGP' on page نه undefined on input line 
+41.
 
 ) [9
 
@@ -2397,7 +2350,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 \g__tcobox_out_iow=\write7
 \openout7 = `main.listing'.
 
- (main.listing
+ (D:\Applications\MikTex\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2025/11/14 1.11b listings language file
+)
+(D:\Applications\MikTex\tex/latex/listings\lstlang2.sty
+File: lstlang2.sty 2025/11/14 1.11b listings language file
+) (main.listing
 LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <10.95> not available
 (Font)              Font shape `TU/lmtt/b/n' tried instead on input line 2.
 )
@@ -2440,19 +2398,9 @@ LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/b/n' will be
 \openout7 = `main.listing'.
 
  (main.listing)
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.77 \newline
-             
-? 
 \openout7 = `main.listing'.
 
-(main.listing)
+ (main.listing)
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2468,7 +2416,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.102 \newline
+l.100 \newline
               
 ? 
 \openout7 = `main.listing'.
@@ -2871,16 +2819,20 @@ Package natbib Warning: There were undefined citations.
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
  ***********
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 6E1B0A2E2A4ECA5233F35FEE65BA98DD;3287.
  ) 
 Here is how much of TeX's memory you used:
- 49328 strings out of 402986
- 1171086 string characters out of 5453057
- 1945612 words of memory out of 5000000
- 77038 multiletter control sequences out of 15000+600000
+ 49363 strings out of 402986
+ 1171499 string characters out of 5453057
+ 2078950 words of memory out of 5000000
+ 77073 multiletter control sequences out of 15000+600000
  639369 words of font info for 210 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 104i,12n,136p,1226b,1775s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 104i,12n,120p,1226b,2341s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on main.pdf (32 pages).
