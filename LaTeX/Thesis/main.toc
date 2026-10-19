@@ -9,8 +9,14 @@
 \contentsline {subsection}{\numberline {1.4.2} ویژگی های مهم زبان }{3}{subsection.1.4.2}%
 \contentsline {chapter}{\numberline {2} مبانی زبان \lr {\textup {Haskell}} }{5}{chapter.2}%
 \contentsline {section}{\numberline {2.1} مقدماتی از استاندارد زبان }{5}{section.2.1}%
-\contentsline {chapter}{\text {\rl {کتاب‌نامه}}}{8}{chapter*.3}%
-\contentsline {chapter}{واژه‌نامه فارسی به انگلیسی}{9}{chapter*.4}%
-\contentsline {chapter}{واژه‌نامه انگلیسی به فارسی}{12}{chapter*.5}%
-\contentsline {chapter}{فهرست نمادها}{17}{chapter*.6}%
-\contentsline {chapter}{فهرست کلمات اختصاری}{18}{chapter*.7}%
+\contentsline {section}{\numberline {2.2} انواع }{7}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1} انواع عددی }{7}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2} انواع منطقی }{8}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3} انواع چندتایی های مرتب }{8}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4} انواع \lr {\textup {List}} }{8}{subsection.2.2.4}%
+\contentsline {section}{\numberline {2.3} کلاس های نوع ( \lr {\textup {Type Classes}} ) }{8}{section.2.3}%
+\contentsline {chapter}{\text {\rl {کتاب‌نامه}}}{9}{chapter*.3}%
+\contentsline {chapter}{واژه‌نامه فارسی به انگلیسی}{10}{chapter*.4}%
+\contentsline {chapter}{واژه‌نامه انگلیسی به فارسی}{13}{chapter*.5}%
+\contentsline {chapter}{فهرست نمادها}{18}{chapter*.6}%
+\contentsline {chapter}{فهرست کلمات اختصاری}{19}{chapter*.7}%

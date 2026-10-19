@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.8.26)  16 OCT 2026 10:52
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.8.26)  19 OCT 2026 08:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1993,6 +1993,9 @@ Package hyperref Info: Link coloring ON on input line 123.
 \openout5 = `main.out'.
 
 
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
@@ -2294,14 +2297,7 @@ LaTeX Font Info:    Font shape `TU/ParsiDigits(1)/m/it' will be
  [1]
 LaTeX Font Info:    Font shape `TU/Yas(0)/b/n' will be
 (Font)              scaled to size 27.36815pt on input line 131.
- [1] (main.toc
-LaTeX Font Info:    Font shape `TU/ParsiDigits(0)/b/n' will be
-(Font)              scaled to size 13.20007pt on input line 3.
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
-(Font)              scaled to size 13.20007pt on input line 7.
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/b/n' will be
-(Font)              scaled to size 13.20007pt on input line 10.
-)
+ [1] (main.toc)
 \tf@toc=\write6
 \openout6 = `main.toc'.
 
@@ -2311,6 +2307,8 @@ LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/b/n' will be
 ] (abstracts/farsi_abstract.tex
 LaTeX Font Info:    Font shape `TU/Yas(0)/m/n' will be
 (Font)              scaled to size 12.04506pt on input line 8.
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
+(Font)              scaled to size 13.20007pt on input line 10.
 ) [8] (chapters/other/introduction.tex
 
 Package natbib Warning: Citation `RefAHACwMG' on page نه undefined on input lin
@@ -2421,19 +2419,34 @@ l.100 \newline
 ? 
 \openout7 = `main.listing'.
 
-(main.listing)) (references/references.tex
+(main.listing)
+Underfull \hbox (badness 10000) in paragraph at lines 125--158
+[][]
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                Make it at least 15.44156pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.44156pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+(fancyhdr)                \addtolength{\topmargin}{-3.44156pt}.
 
 [7]
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/b/n' will be
+(Font)              scaled to size 15.84007pt on input line 170.
+) (references/references.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.44156pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.44156pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-3.44156pt}.
+
+[8]
 
 Package natbib Warning: Empty `thebibliography' environment on input line 21.
 
-) [8
+) [9
 
 ] (dictionaries/dictionary_farsi_to_english.tex
 Underfull \hbox (badness 10000) in paragraph at lines 10--12
@@ -2465,7 +2478,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 41--42
 [][]
  []
 
-[9
+[10
 
 
 ]
@@ -2510,7 +2523,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[10]
+[11]
 Underfull \hbox (badness 10000) in paragraph at lines 85--88
 [][]
  []
@@ -2533,7 +2546,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[11] (dictionaries/dictionary_english_to_farsi.tex
+[12] (dictionaries/dictionary_english_to_farsi.tex
 Underfull \hbox (badness 10000) in paragraph at lines 11--13
 [][]
  []
@@ -2548,7 +2561,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 27--41
 [][]
  []
 
-[12
+[13
 
 
 ]
@@ -2583,7 +2596,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[13]
+[14]
 Underfull \hbox (badness 10000) in paragraph at lines 96--97
 [][]
  []
@@ -2605,7 +2618,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[14]
+[15]
 Underfull \hbox (badness 10000) in paragraph at lines 126--137
 [][]
  []
@@ -2632,7 +2645,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[15]
+[16]
 Underfull \hbox (badness 10000) in paragraph at lines 173--174
 [][]
  []
@@ -2655,7 +2668,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[16]
+[17]
 LaTeX Font Info:    Font shape `TU/Yas(0)/m/n' will be
 (Font)              scaled to size 8.80005pt on input line 7.
 LaTeX Font Info:    Font shape `TU/Yas(0)/m/n' will be
@@ -2670,7 +2683,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--13
 [][]
  []
 
-) [17
+) [18
 
 ] (lists/list_of_abbreviation.tex
 Underfull \hbox (badness 10000) in paragraph at lines 7--8
@@ -2682,7 +2695,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--14
 [][]
  []
 
-) [18
+) [19
 
 
 ] (abstracts/english_abstract.tex
@@ -2702,7 +2715,7 @@ LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
 (Font)              scaled to size 12.04506pt on input line 45.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(1)/m/it' will be
 (Font)              scaled to size 9.85492pt on input line 48.
-) [19
+) [20
 
 ]
 File: ./styles/Elogo.png Graphic file (type bmp)
@@ -2784,7 +2797,7 @@ l.182 \Eapprovalpage
 File: ./styles/Elogo.png Graphic file (type bmp)
 <./styles/Elogo.png>
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/b/n' will be
-(Font)              scaled to size 15.84007pt on input line 183.
+(Font)              scaled to size 13.20007pt on input line 183.
 
 ! Undefined control sequence.
 <argument> \@Eadvisor 
@@ -2823,16 +2836,22 @@ L3 programming layer <2025-12-24>
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 6E1B0A2E2A4ECA5233F35FEE65BA98DD;3287.
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
+(rerunfilecheck)             After:  9FD09EA0424105F64649BF3177C83AB8;4392.
  ) 
 Here is how much of TeX's memory you used:
- 49363 strings out of 402986
- 1171499 string characters out of 5453057
- 2078950 words of memory out of 5000000
- 77073 multiletter control sequences out of 15000+600000
- 639369 words of font info for 210 fonts, out of 8000000 for 9000
+ 49361 strings out of 402986
+ 1171438 string characters out of 5453057
+ 2078650 words of memory out of 5000000
+ 77072 multiletter control sequences out of 15000+600000
+ 639361 words of font info for 209 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  104i,12n,120p,1226b,2341s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (32 pages).
+Output written on main.pdf (33 pages).
