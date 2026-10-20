@@ -155,7 +155,33 @@ module AStack( Stack, push, pop, top, size ) where
 }
 به تفصیل معرفی شده.
 \newline
+\begin{latin}
+\begin{ghicode}
+ghci> floatRadix (1 :: Double)
+2
+ghci> floatDigits (1 :: Double)
+53
+ghci> floatRange (1 :: Double)
+(-1021, 1024)
+ghci> floatRadix (1 :: Float)
+2
+ghci> floatDigits (1 :: Float)
+24
+ghci> floatRange (1 :: Float)
+(-125, 128)
 
+
+
+\end{ghicode}
+\end{latin}
+در بلوک بالا اطلاعات کلی را درباره انواع 
+\hs{Float}
+و 
+\hs{Double}
+میبینیم. توجه کنید که تابع 
+\hs{floatRange}
+بازه نمای عدد ممیز شناور را خروجی میدهد.
+\newline
 
 
 \subsection{
