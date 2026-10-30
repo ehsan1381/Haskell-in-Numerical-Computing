@@ -1,5 +1,4 @@
--- This is a Haskell comment
------ So is this
-{- Also
-        This
--}
+sum (replicate 10 0.1) :: Double         -- 0.9999999999999999
+sqrt 2 * sqrt 2 :: Double                -- 2.0000000000000004
+1e16 + 1 == (1e16 :: Double)             -- True (the 1 vanishes)
+(1e16 + 1) + 1 == (1e16 + (1 + 1) :: Double)   -- False: addition isn't associative
