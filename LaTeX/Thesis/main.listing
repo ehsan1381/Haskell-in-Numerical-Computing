@@ -1,4 +1,12 @@
-sum (replicate 10 0.1) :: Double         -- 0.9999999999999999
-sqrt 2 * sqrt 2 :: Double                -- 2.0000000000000004
-1e16 + 1 == (1e16 :: Double)             -- True (the 1 vanishes)
-(1e16 + 1) + 1 == (1e16 + (1 + 1) :: Double)   -- False: addition isn't associative
+ghci> (1/0, -1/0, 0/0) :: (Double, Double, Double)
+(Infinity,-Infinity,NaN)
+ghci> let nan = 0/0 :: Double in (nan == nan, nan /= nan, isNaN nan)
+(False,True,True)
+ghci> 1e308 * 10 :: Double
+Infinity
+ghci> encodeFloat (2^53 - 1) (1024 - 53) :: Double
+1.7976931348623157e308
+ghci> 3.5e38 :: Float
+Infinity
+ghci> 1e400 :: Double
+Infinity
