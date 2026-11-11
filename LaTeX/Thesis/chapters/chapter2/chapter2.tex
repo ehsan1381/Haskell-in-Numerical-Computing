@@ -158,9 +158,16 @@ module AStack( Stack, push, pop, top, size ) where
 برای اجرای این دستورات در 
 \eng{GHCi}
 لازم است دستور زیر را ابتدا اجرا کنید تا کتابخانه های مورد نیاز فراخوانی شوند.
-\hs{:m + Numeric GHC.Float Data.Int Data.Word}
 \begin{latin}
-\begin{ghicode}
+\begin{ghcode}
+:m + Numeric GHC.Float Data.Int Data.Word
+\end{ghcode}
+\end{latin}
+
+\newline
+
+\begin{latin}
+\begin{ghcode}
 ghci> floatRadix (1 :: Double)
 2
 ghci> floatDigits (1 :: Double)
@@ -176,7 +183,7 @@ ghci> floatRange (1 :: Float)
 
 
 
-\end{ghicode}
+\end{ghcode}
 \end{latin}
 در بلوک بالا اطلاعات کلی را درباره انواع 
 \hs{Float}
