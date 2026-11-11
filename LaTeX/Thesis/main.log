@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.8.26)  30 OCT 2026 16:03
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.8.26)  11 NOV 2026 19:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2430,30 +2430,26 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-3.44156pt}.
 
 [7]
+\openout7 = `main.listing'.
 
-! LaTeX Error: Environment ghicode undefined.
+ (main.listing)
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.163 \begin{ghicode}
-                     
-? 
-
-! LaTeX Error: \begin{latin} on input line 162 ended by \end{ghicode}.
+! LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.179 \end{ghicode}
-                   
+l.167 \newline
+              
 ? 
 \openout7 = `main.listing'.
 
 (main.listing)
-Underfull \hbox (badness 10000) in paragraph at lines 200--230
+\openout7 = `main.listing'.
+
+ (main.listing)
+Underfull \hbox (badness 10000) in paragraph at lines 207--237
 [][]
  []
 
@@ -2468,12 +2464,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 \openout7 = `main.listing'.
 
  (main.listing)
+! Missing $ inserted.
+<inserted text> 
+                $
+l.263 \end{latin}
+                 
+? 
 \openout7 = `main.listing'.
 
- (main.listing)
-\openout7 = `main.listing'.
-
- (main.listing)
+(main.listing)
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 15.44156pt, for example:
@@ -2482,8 +2481,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-3.44156pt}.
 
 [9]
+\openout7 = `main.listing'.
+
+ (main.listing)
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/b/n' will be
-(Font)              scaled to size 15.84007pt on input line 309.
+(Font)              scaled to size 15.84007pt on input line 320.
 ) (references/references.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2884,10 +2886,10 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 9FD09EA0424105F64649BF3177C83AB8;4392.
  ) 
 Here is how much of TeX's memory you used:
- 49413 strings out of 402986
- 1172158 string characters out of 5453057
- 2078997 words of memory out of 5000000
- 77115 multiletter control sequences out of 15000+600000
+ 49416 strings out of 402986
+ 1172170 string characters out of 5453057
+ 2079031 words of memory out of 5000000
+ 77114 multiletter control sequences out of 15000+600000
  639369 words of font info for 210 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  104i,12n,120p,1226b,2341s stack positions out of 10000i,1000n,20000p,200000b,200000s
