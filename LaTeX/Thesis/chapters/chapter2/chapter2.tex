@@ -302,12 +302,61 @@ $1 + \epsilon$
 %========= continue from here
 \begin{latin}
 \begin{ghcode}
-sum (replicate 10 0.1) :: Double         -- 0.9999999999999999
-sqrt 2 * sqrt 2 :: Double                -- 2.0000000000000004
-1e16 + 1 == (1e16 :: Double)             -- True (the 1 vanishes)
-(1e16 + 1) + 1 == (1e16 + (1 + 1) :: Double)   -- False: addition isn't associative
+ghci> sum (replicate 10 0.1) :: Double
+0.9999999999999999
+ghci> sqrt 2 * sqrt 2 :: Double
+2.0000000000000004
+ghci> 1e16 + 1 == (1e16 :: Double)
+True
+ghci> (1e16 + 1) + 1 == (1e16 + (1 + 1) :: Double)
+False
 \end{ghcode}
 \end{latin}
+در اولین دستور از تابع 
+\hs{replicate}
+استفاده میکنیم تا عدد 
+$0.1$
+را 10 بار در یک دنباله از از نوع 
+\hs{[Double]}
+یا لیست با اعضای از نوع
+\hs{Double}
+تکرار کنیم و سپس اعضا را با هم جمع کنیم. میبینیم که این جمع با عدد 
+$10$
+برابر نیست. رفتاری که محیط متلب نیز از خود نشان میدهد. در دستور دوم عدد 
+$\sqrt{2}$
+را در خودش ضرب میکنیم. در خروجی پیداست که میزانی خطا وارد این ضرب شده. این خطا در محیط متلب تصحیح میشود و خروجی درست 
+$2.000000000000000e+00$
+را دریافت میکنیم. در دو دستور بعد بار دیگر خروجی با محیط متلب یکسان است. در دستور آخر میبینیم جمع شرکت پذیر نیست.
+\newline
+در بلوک زیر به بررسی مقادیر خاص حساب ممیز شناور میپردازیم.
+\begin{latin}
+\begin{ghcode}
+ghci> (1/0, -1/0, 0/0) :: (Double, Double, Double)
+(Infinity,-Infinity,NaN)
+ghci> let nan = 0/0 :: Double in (nan == nan, nan /= nan, isNaN nan)
+(False,True,True)
+ghci> 1e308 * 10 :: Double
+Infinity
+ghci> encodeFloat (2^53 - 1) (1024 - 53) :: Double
+1.7976931348623157e308
+ghci> 3.5e38 :: Float
+Infinity
+ghci> 1e400 :: Double
+Infinity
+\end{ghcode}
+\end{latin}
+در دستور اول بررسی میکنیم اعمال تقسیم بر صفر در نوع 
+\hs{Double}
+چه خروجی میدهند. دستور دوم قیاس وضعیت 
+\hs{NaN}
+را بررسی میکند. در دستورات بعدی وضعیت 
+\eng{overflow}
+را در انواع 
+\hs{Float, Double}
+بررسی میکنیم. خروجی ها با انتظار ما همخوانی دارند. 
+
+
+%%%%%% start here
 \subsection{
 انواع منطقی
 }
