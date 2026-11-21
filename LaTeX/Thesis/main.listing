@@ -1,12 +1,4 @@
-ghci> (1/0, -1/0, 0/0) :: (Double, Double, Double)
-(Infinity,-Infinity,NaN)
-ghci> let nan = 0/0 :: Double in (nan == nan, nan /= nan, isNaN nan)
-(False,True,True)
-ghci> 1e308 * 10 :: Double
-Infinity
-ghci> encodeFloat (2^53 - 1) (1024 - 53) :: Double
-1.7976931348623157e308
-ghci> 3.5e38 :: Float
-Infinity
-ghci> 1e400 :: Double
-Infinity
+ghci> [1..10]
+[1,2,3,4,5,6,7,8,9,10]
+ghci> [50,100..500]
+[50,100,150,200,250,300,350,400,450,500]

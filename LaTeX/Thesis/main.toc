@@ -14,9 +14,9 @@
 \contentsline {subsection}{\numberline {2.2.2} انواع منطقی }{11}{subsection.2.2.2}%
 \contentsline {subsection}{\numberline {2.2.3} انواع چندتایی های مرتب }{11}{subsection.2.2.3}%
 \contentsline {subsection}{\numberline {2.2.4} انواع \lr {\textup {List}} }{11}{subsection.2.2.4}%
-\contentsline {section}{\numberline {2.3} کلاس های نوع ( \lr {\textup {Type Classes}} ) }{11}{section.2.3}%
-\contentsline {chapter}{\text {\rl {کتاب‌نامه}}}{12}{chapter*.3}%
-\contentsline {chapter}{واژه‌نامه فارسی به انگلیسی}{13}{chapter*.4}%
-\contentsline {chapter}{واژه‌نامه انگلیسی به فارسی}{16}{chapter*.5}%
-\contentsline {chapter}{فهرست نمادها}{21}{chapter*.6}%
-\contentsline {chapter}{فهرست کلمات اختصاری}{22}{chapter*.7}%
+\contentsline {section}{\numberline {2.3} کلاس های نوع ( \lr {\textup {Type Classes}} ) }{12}{section.2.3}%
+\contentsline {chapter}{\text {\rl {کتاب‌نامه}}}{13}{chapter*.3}%
+\contentsline {chapter}{واژه‌نامه فارسی به انگلیسی}{14}{chapter*.4}%
+\contentsline {chapter}{واژه‌نامه انگلیسی به فارسی}{17}{chapter*.5}%
+\contentsline {chapter}{فهرست نمادها}{22}{chapter*.6}%
+\contentsline {chapter}{فهرست کلمات اختصاری}{23}{chapter*.7}%
