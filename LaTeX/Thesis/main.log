@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.8.26)  11 NOV 2026 20:05
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.8.26)  21 NOV 2026 08:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2496,7 +2496,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [10]
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/b/n' will be
-(Font)              scaled to size 15.84007pt on input line 369.
+(Font)              scaled to size 15.84007pt on input line 376.
 ) (references/references.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2897,10 +2897,10 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 9FD09EA0424105F64649BF3177C83AB8;4392.
  ) 
 Here is how much of TeX's memory you used:
- 49434 strings out of 402986
- 1172345 string characters out of 5453057
+ 49436 strings out of 402986
+ 1172362 string characters out of 5453057
  2079031 words of memory out of 5000000
- 77130 multiletter control sequences out of 15000+600000
+ 77132 multiletter control sequences out of 15000+600000
  639369 words of font info for 210 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  104i,12n,120p,1226b,2341s stack positions out of 10000i,1000n,20000p,200000b,200000s
